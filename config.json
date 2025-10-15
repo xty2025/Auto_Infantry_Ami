@@ -1,0 +1,80 @@
+{
+    "car_name": "quanxiang",
+    "quanxiang" :
+    {
+        "auto_white_balance": true,
+        "web_debug": true,
+        
+        "debug_on_image": false,
+        "record_enable": true,
+        "UDP": {
+            "enable": false,
+            "ip": "192.168.137.1",
+            "port": 4096
+        },
+        
+        "controller":
+        {
+            "gun_offset": [107.8, 0, 0],
+            "shoot_delay": 0.0,
+            "response_speed": 0.01,
+            "pic_camera_x": 640.0,
+            "pic_camera_y": 512.0,
+            "mouse_require": true
+        },
+        "solver":
+        {
+            "camera_offset": [124.59,-30.25,56.3],
+            "camera_rotation": [0.0, 0.01, 0],
+            "camera_intrinsic_matrix": [
+                [1695.4, 0, 643.7560],
+                [0, 1697.6, 486.6399],
+                [0, 0, 1]
+            ],
+            "camera_distortion_matrix": [
+                -0.0562, 0.1271, 0, 0, 0.0793
+            ]
+        },
+        "detector":
+        {
+            "#model_path": "../utils/models/BRpoints_nano.xml",
+            "model_path": "../utils/models/armor_yolo_x.xml",
+            "use_old_model": true,
+            "car_model_path": "../utils/models/yolo11n-416sgd4.xml"
+        },
+        "buff": {
+            "EfficiencyFirst": true,
+            "SMALL_POWER_RUNE_ROTATION_SPEED": 1.04719,
+            "armor_width": 270,
+            "red_buff_model_path": "../utils/buff_models/red_buff/best.xml",
+            "blue_buff_model_path": "../utils/buff_models/blue_buff_debug/best.xml",
+            "buff_size": 270,
+            "max_distance_to_buff": 20,
+            "min_distance_to_buff": 3,
+            "power_radius": 700,
+            "COMPANSATE_TIME": 490.0,
+            "COMPANSATE_PITCH": 2.25,
+            "COMPANSATE_YAW": -0.3,
+            "AFTER_PITCH": 2.0,
+            "AFTER_YAW": -0.29,
+            "GRAVITY": 9.8,
+            "FPS": 120,
+            "tvec_c2g": [
+                0,    
+                58.5,
+                0
+            ],
+            "force_stable": false
+        },
+
+        "serial_name": "/dev/ttyACM0|/dev/ttyACM1|/dev/ttyUSB0|/dev/ttyUSB1",
+        "baud_rate": 115200,
+        "camera_id": "auto",
+        "exposure_time": 7000,
+        "gain": 16,
+
+        "enemy_color" : "auto",
+        "shoot_enable": true,
+        "force_shoot" : false
+    }
+}
