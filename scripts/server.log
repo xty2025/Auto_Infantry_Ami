@@ -1,0 +1,1334 @@
+2025-03-28 21:17:52,566 [INFO] find ip:None
+2025-03-28 21:17:52,567 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://172.20.195.39:8080
+2025-03-28 21:17:52,567 [INFO] [33mPress CTRL+C to quit[0m
+2025-03-28 21:18:49,447 [INFO] 127.0.0.1 - - [28/Mar/2025 21:18:49] "GET / HTTP/1.1" 200 -
+2025-03-28 21:18:49,998 [INFO] 127.0.0.1 - - [28/Mar/2025 21:18:49] "GET /api/config HTTP/1.1" 200 -
+2025-03-28 21:18:59,471 [ERROR] 视频流错误: HTTPConnectionPool(host='127.0.0.1', port=8081): Read timed out.
+2025-03-28 21:18:59,471 [INFO] 127.0.0.1 - - [28/Mar/2025 21:18:59] "GET /video_feed HTTP/1.1" 200 -
+2025-03-28 21:18:59,478 [INFO] 127.0.0.1 - - [28/Mar/2025 21:18:59] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-03-28 21:26:47,958 [INFO] 127.0.0.1 - - [28/Mar/2025 21:26:47] "GET / HTTP/1.1" 200 -
+2025-03-28 21:26:48,047 [INFO] 127.0.0.1 - - [28/Mar/2025 21:26:48] "GET /api/config HTTP/1.1" 200 -
+2025-03-28 21:26:55,174 [ERROR] 视频流错误: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2025-03-28 21:26:55,174 [INFO] 127.0.0.1 - - [28/Mar/2025 21:26:55] "GET /video_feed HTTP/1.1" 200 -
+2025-03-28 21:41:06,634 [INFO] 127.0.0.1 - - [28/Mar/2025 21:41:06] "GET / HTTP/1.1" 200 -
+2025-03-28 21:41:06,712 [INFO] 127.0.0.1 - - [28/Mar/2025 21:41:06] "GET /api/config HTTP/1.1" 200 -
+2025-03-28 21:41:10,453 [ERROR] 视频流错误: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2025-03-28 21:41:10,453 [INFO] 127.0.0.1 - - [28/Mar/2025 21:41:10] "GET /video_feed HTTP/1.1" 200 -
+2025-03-28 21:55:57,143 [INFO] 127.0.0.1 - - [28/Mar/2025 21:55:57] "GET / HTTP/1.1" 200 -
+2025-03-28 21:55:57,193 [INFO] 127.0.0.1 - - [28/Mar/2025 21:55:57] "GET /video_feed HTTP/1.1" 200 -
+2025-03-28 21:55:57,271 [INFO] 127.0.0.1 - - [28/Mar/2025 21:55:57] "GET /api/config HTTP/1.1" 200 -
+2025-03-28 21:57:44,114 [ERROR] 视频流错误: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2025-03-28 21:59:25,262 [INFO] 127.0.0.1 - - [28/Mar/2025 21:59:25] "GET / HTTP/1.1" 200 -
+2025-03-28 21:59:25,284 [INFO] 127.0.0.1 - - [28/Mar/2025 21:59:25] "GET /video_feed HTTP/1.1" 200 -
+2025-03-28 21:59:25,395 [INFO] 127.0.0.1 - - [28/Mar/2025 21:59:25] "GET /api/config HTTP/1.1" 200 -
+2025-03-28 22:00:52,619 [ERROR] 视频流错误: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2025-03-28 22:03:59,369 [INFO] 127.0.0.1 - - [28/Mar/2025 22:03:59] "GET / HTTP/1.1" 200 -
+2025-03-28 22:03:59,391 [INFO] 127.0.0.1 - - [28/Mar/2025 22:03:59] "GET /video_feed HTTP/1.1" 200 -
+2025-03-28 22:03:59,526 [INFO] 127.0.0.1 - - [28/Mar/2025 22:03:59] "GET /api/config HTTP/1.1" 200 -
+2025-03-28 22:05:37,985 [ERROR] 视频流错误: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2025-03-28 22:08:49,713 [INFO] 127.0.0.1 - - [28/Mar/2025 22:08:49] "GET / HTTP/1.1" 200 -
+2025-03-28 22:08:49,730 [INFO] 127.0.0.1 - - [28/Mar/2025 22:08:49] "GET /video_feed HTTP/1.1" 200 -
+2025-03-28 22:08:49,854 [INFO] 127.0.0.1 - - [28/Mar/2025 22:08:49] "GET /api/config HTTP/1.1" 200 -
+2025-03-28 22:09:24,791 [ERROR] 视频流错误: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2025-03-28 22:23:10,142 [INFO] 127.0.0.1 - - [28/Mar/2025 22:23:10] "GET / HTTP/1.1" 200 -
+2025-03-28 22:23:10,161 [INFO] 127.0.0.1 - - [28/Mar/2025 22:23:10] "GET /video_feed HTTP/1.1" 200 -
+2025-03-28 22:23:10,280 [INFO] 127.0.0.1 - - [28/Mar/2025 22:23:10] "GET /api/config HTTP/1.1" 200 -
+2025-03-28 22:23:16,668 [ERROR] 视频流错误: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2025-03-28 22:42:17,755 [INFO] 127.0.0.1 - - [28/Mar/2025 22:42:17] "GET / HTTP/1.1" 200 -
+2025-03-28 22:42:17,773 [INFO] 127.0.0.1 - - [28/Mar/2025 22:42:17] "GET /video_feed HTTP/1.1" 200 -
+2025-03-28 22:42:17,863 [INFO] 127.0.0.1 - - [28/Mar/2025 22:42:17] "GET /api/config HTTP/1.1" 200 -
+2025-03-28 22:43:05,411 [ERROR] 视频流错误: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2025-03-28 23:27:09,058 [INFO] 127.0.0.1 - - [28/Mar/2025 23:27:09] "GET / HTTP/1.1" 200 -
+2025-03-28 23:27:09,079 [INFO] 127.0.0.1 - - [28/Mar/2025 23:27:09] "GET /video_feed HTTP/1.1" 200 -
+2025-03-28 23:27:09,193 [INFO] 127.0.0.1 - - [28/Mar/2025 23:27:09] "GET /api/config HTTP/1.1" 200 -
+2025-03-30 18:46:03,501 [INFO] 127.0.0.1 - - [30/Mar/2025 18:46:03] "GET / HTTP/1.1" 200 -
+2025-03-30 18:46:03,592 [INFO] 127.0.0.1 - - [30/Mar/2025 18:46:03] "GET /video_feed HTTP/1.1" 200 -
+2025-03-30 18:46:03,717 [INFO] 127.0.0.1 - - [30/Mar/2025 18:46:03] "GET /api/config HTTP/1.1" 200 -
+2025-03-30 18:46:03,854 [INFO] 127.0.0.1 - - [30/Mar/2025 18:46:03] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-03-30 18:46:15,724 [INFO] 127.0.0.1 - - [30/Mar/2025 18:46:15] "GET / HTTP/1.1" 200 -
+2025-03-30 18:46:15,754 [INFO] 127.0.0.1 - - [30/Mar/2025 18:46:15] "GET /video_feed HTTP/1.1" 200 -
+2025-03-30 18:46:15,812 [INFO] 127.0.0.1 - - [30/Mar/2025 18:46:15] "GET /api/config HTTP/1.1" 200 -
+2025-03-30 18:47:19,916 [ERROR] 视频流错误: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2025-03-30 18:49:12,592 [INFO] 127.0.0.1 - - [30/Mar/2025 18:49:12] "GET / HTTP/1.1" 200 -
+2025-03-30 18:49:12,617 [INFO] 127.0.0.1 - - [30/Mar/2025 18:49:12] "GET /video_feed HTTP/1.1" 200 -
+2025-03-30 18:49:12,723 [INFO] 127.0.0.1 - - [30/Mar/2025 18:49:12] "GET /api/config HTTP/1.1" 200 -
+2025-03-30 18:49:17,300 [INFO] 127.0.0.1 - - [30/Mar/2025 18:49:17] "GET / HTTP/1.1" 200 -
+2025-03-30 18:49:17,325 [INFO] 127.0.0.1 - - [30/Mar/2025 18:49:17] "GET /video_feed HTTP/1.1" 200 -
+2025-03-30 18:49:17,414 [INFO] 127.0.0.1 - - [30/Mar/2025 18:49:17] "GET /api/config HTTP/1.1" 200 -
+2025-03-30 18:49:42,265 [ERROR] 视频流错误: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2025-04-06 02:03:50,559 [INFO] find ip:None
+2025-04-06 02:03:50,561 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://172.20.195.39:8080
+2025-04-06 02:03:50,561 [INFO] [33mPress CTRL+C to quit[0m
+2025-04-06 02:04:00,531 [INFO] 127.0.0.1 - - [06/Apr/2025 02:04:00] "GET / HTTP/1.1" 200 -
+2025-04-06 02:04:00,556 [INFO] 127.0.0.1 - - [06/Apr/2025 02:04:00] "GET /video_feed HTTP/1.1" 200 -
+2025-04-06 02:04:01,191 [INFO] 127.0.0.1 - - [06/Apr/2025 02:04:01] "GET /api/config HTTP/1.1" 200 -
+2025-04-06 02:04:01,586 [INFO] 127.0.0.1 - - [06/Apr/2025 02:04:01] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-04-06 02:04:40,692 [ERROR] 视频流错误: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2025-04-06 15:22:12,551 [INFO] find ip:None
+2025-04-06 15:22:12,552 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://172.20.195.39:8080
+2025-04-06 15:22:12,553 [INFO] [33mPress CTRL+C to quit[0m
+2025-04-06 15:22:17,391 [INFO] 127.0.0.1 - - [06/Apr/2025 15:22:17] "GET / HTTP/1.1" 200 -
+2025-04-06 15:22:17,744 [INFO] 127.0.0.1 - - [06/Apr/2025 15:22:17] "GET /api/config HTTP/1.1" 200 -
+2025-04-06 15:22:27,407 [ERROR] 视频流错误: HTTPConnectionPool(host='127.0.0.1', port=8081): Read timed out.
+2025-04-06 15:22:27,407 [INFO] 127.0.0.1 - - [06/Apr/2025 15:22:27] "GET /video_feed HTTP/1.1" 200 -
+2025-04-06 15:22:32,364 [INFO] 127.0.0.1 - - [06/Apr/2025 15:22:32] "GET / HTTP/1.1" 200 -
+2025-04-06 15:22:32,426 [INFO] 127.0.0.1 - - [06/Apr/2025 15:22:32] "GET /api/config HTTP/1.1" 200 -
+2025-04-06 15:22:34,883 [ERROR] 视频流错误: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2025-04-06 15:22:34,883 [INFO] 127.0.0.1 - - [06/Apr/2025 15:22:34] "GET /video_feed HTTP/1.1" 200 -
+2025-04-06 15:24:46,963 [INFO] 127.0.0.1 - - [06/Apr/2025 15:24:46] "GET / HTTP/1.1" 200 -
+2025-04-06 15:24:46,981 [INFO] 127.0.0.1 - - [06/Apr/2025 15:24:46] "GET /video_feed HTTP/1.1" 200 -
+2025-04-06 15:24:47,162 [INFO] 127.0.0.1 - - [06/Apr/2025 15:24:47] "GET /api/config HTTP/1.1" 200 -
+2025-04-06 15:24:51,173 [ERROR] 视频流错误: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2025-04-06 15:34:55,372 [INFO] 127.0.0.1 - - [06/Apr/2025 15:34:55] "GET / HTTP/1.1" 200 -
+2025-04-06 15:34:55,391 [INFO] 127.0.0.1 - - [06/Apr/2025 15:34:55] "GET /video_feed HTTP/1.1" 200 -
+2025-04-06 15:34:55,545 [INFO] 127.0.0.1 - - [06/Apr/2025 15:34:55] "GET /api/config HTTP/1.1" 200 -
+2025-04-06 15:35:10,544 [ERROR] 视频流错误: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2025-04-06 15:35:55,003 [INFO] 127.0.0.1 - - [06/Apr/2025 15:35:55] "GET / HTTP/1.1" 200 -
+2025-04-06 15:35:55,020 [INFO] 127.0.0.1 - - [06/Apr/2025 15:35:55] "GET /video_feed HTTP/1.1" 200 -
+2025-04-06 15:35:55,079 [INFO] 127.0.0.1 - - [06/Apr/2025 15:35:55] "GET /api/config HTTP/1.1" 200 -
+2025-04-06 15:36:01,379 [ERROR] 视频流错误: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2025-04-06 15:37:50,219 [INFO] 127.0.0.1 - - [06/Apr/2025 15:37:50] "GET / HTTP/1.1" 200 -
+2025-04-06 15:37:50,235 [INFO] 127.0.0.1 - - [06/Apr/2025 15:37:50] "GET /video_feed HTTP/1.1" 200 -
+2025-04-06 15:37:50,430 [INFO] 127.0.0.1 - - [06/Apr/2025 15:37:50] "GET /api/config HTTP/1.1" 200 -
+2025-04-06 15:38:19,072 [ERROR] 视频流错误: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2025-04-06 15:40:44,253 [INFO] 127.0.0.1 - - [06/Apr/2025 15:40:44] "GET / HTTP/1.1" 200 -
+2025-04-06 15:40:44,271 [INFO] 127.0.0.1 - - [06/Apr/2025 15:40:44] "GET /video_feed HTTP/1.1" 200 -
+2025-04-06 15:40:47,747 [INFO] 127.0.0.1 - - [06/Apr/2025 15:40:47] "GET /api/config HTTP/1.1" 200 -
+2025-04-06 15:40:56,943 [ERROR] 视频流错误: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2025-04-06 15:42:36,407 [INFO] 127.0.0.1 - - [06/Apr/2025 15:42:36] "GET / HTTP/1.1" 200 -
+2025-04-06 15:42:36,422 [INFO] 127.0.0.1 - - [06/Apr/2025 15:42:36] "GET /video_feed HTTP/1.1" 200 -
+2025-04-06 15:42:36,509 [INFO] 127.0.0.1 - - [06/Apr/2025 15:42:36] "GET /api/config HTTP/1.1" 200 -
+2025-04-06 15:42:54,639 [ERROR] 视频流错误: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2025-04-06 15:45:16,618 [INFO] 127.0.0.1 - - [06/Apr/2025 15:45:16] "GET / HTTP/1.1" 200 -
+2025-04-06 15:45:16,635 [INFO] 127.0.0.1 - - [06/Apr/2025 15:45:16] "GET /video_feed HTTP/1.1" 200 -
+2025-04-06 15:45:16,878 [INFO] 127.0.0.1 - - [06/Apr/2025 15:45:16] "GET /api/config HTTP/1.1" 200 -
+2025-04-06 15:45:42,979 [ERROR] 视频流错误: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2025-04-06 18:13:55,558 [INFO] 127.0.0.1 - - [06/Apr/2025 18:13:55] "GET / HTTP/1.1" 200 -
+2025-04-06 18:13:55,601 [INFO] 127.0.0.1 - - [06/Apr/2025 18:13:55] "GET /video_feed HTTP/1.1" 200 -
+2025-04-06 18:13:55,770 [INFO] 127.0.0.1 - - [06/Apr/2025 18:13:55] "GET /api/config HTTP/1.1" 200 -
+2025-04-06 18:14:17,942 [ERROR] 视频流错误: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2025-04-06 18:17:41,878 [INFO] 127.0.0.1 - - [06/Apr/2025 18:17:41] "GET / HTTP/1.1" 200 -
+2025-04-06 18:17:41,898 [INFO] 127.0.0.1 - - [06/Apr/2025 18:17:41] "GET /video_feed HTTP/1.1" 200 -
+2025-04-06 18:17:42,145 [INFO] 127.0.0.1 - - [06/Apr/2025 18:17:42] "GET /api/config HTTP/1.1" 200 -
+2025-04-06 18:18:30,854 [ERROR] 视频流错误: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2025-04-06 18:19:38,335 [INFO] 127.0.0.1 - - [06/Apr/2025 18:19:38] "GET / HTTP/1.1" 200 -
+2025-04-06 18:19:38,346 [INFO] 127.0.0.1 - - [06/Apr/2025 18:19:38] "GET /video_feed HTTP/1.1" 200 -
+2025-04-06 18:19:38,524 [INFO] 127.0.0.1 - - [06/Apr/2025 18:19:38] "GET /api/config HTTP/1.1" 200 -
+2025-04-06 18:20:29,096 [ERROR] 视频流错误: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2025-04-06 18:21:00,403 [INFO] 127.0.0.1 - - [06/Apr/2025 18:21:00] "GET / HTTP/1.1" 200 -
+2025-04-06 18:21:00,424 [INFO] 127.0.0.1 - - [06/Apr/2025 18:21:00] "GET /video_feed HTTP/1.1" 200 -
+2025-04-06 18:21:00,512 [INFO] 127.0.0.1 - - [06/Apr/2025 18:21:00] "GET /api/config HTTP/1.1" 200 -
+2025-04-06 18:21:38,055 [ERROR] 视频流错误: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2025-04-06 18:43:57,867 [INFO] 127.0.0.1 - - [06/Apr/2025 18:43:57] "GET / HTTP/1.1" 200 -
+2025-04-06 18:43:57,887 [INFO] 127.0.0.1 - - [06/Apr/2025 18:43:57] "GET /video_feed HTTP/1.1" 200 -
+2025-04-06 18:43:58,072 [INFO] 127.0.0.1 - - [06/Apr/2025 18:43:58] "GET /api/config HTTP/1.1" 200 -
+2025-04-06 18:46:04,048 [ERROR] 视频流错误: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2025-04-06 18:47:44,527 [INFO] find ip:None
+2025-04-06 18:47:44,528 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://172.20.195.39:8080
+2025-04-06 18:47:44,528 [INFO] [33mPress CTRL+C to quit[0m
+2025-04-06 18:47:50,398 [INFO] 127.0.0.1 - - [06/Apr/2025 18:47:50] "GET / HTTP/1.1" 200 -
+2025-04-06 18:47:50,418 [INFO] 127.0.0.1 - - [06/Apr/2025 18:47:50] "GET /video_feed HTTP/1.1" 200 -
+2025-04-06 18:47:50,486 [INFO] 127.0.0.1 - - [06/Apr/2025 18:47:50] "GET /api/config HTTP/1.1" 200 -
+2025-04-06 18:48:04,220 [ERROR] 视频流错误: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2025-04-06 18:49:07,767 [INFO] find ip:None
+2025-04-06 18:49:07,768 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://172.20.195.39:8080
+2025-04-06 18:49:07,768 [INFO] [33mPress CTRL+C to quit[0m
+2025-04-06 18:49:12,708 [INFO] 127.0.0.1 - - [06/Apr/2025 18:49:12] "GET / HTTP/1.1" 200 -
+2025-04-06 18:49:12,726 [INFO] 127.0.0.1 - - [06/Apr/2025 18:49:12] "GET /video_feed HTTP/1.1" 200 -
+2025-04-06 18:49:12,803 [INFO] 127.0.0.1 - - [06/Apr/2025 18:49:12] "GET /api/config HTTP/1.1" 200 -
+2025-04-06 18:49:29,797 [ERROR] 视频流错误: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2025-04-06 18:51:51,210 [INFO] find ip:None
+2025-04-06 18:51:51,211 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://172.20.195.39:8080
+2025-04-06 18:51:51,211 [INFO] [33mPress CTRL+C to quit[0m
+2025-04-06 18:51:57,316 [INFO] 127.0.0.1 - - [06/Apr/2025 18:51:57] "GET / HTTP/1.1" 200 -
+2025-04-06 18:51:57,335 [INFO] 127.0.0.1 - - [06/Apr/2025 18:51:57] "GET /video_feed HTTP/1.1" 200 -
+2025-04-06 18:51:57,529 [INFO] 127.0.0.1 - - [06/Apr/2025 18:51:57] "GET /api/config HTTP/1.1" 200 -
+2025-04-06 18:53:03,453 [ERROR] 视频流错误: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2025-04-06 18:53:07,293 [INFO] 127.0.0.1 - - [06/Apr/2025 18:53:07] "GET / HTTP/1.1" 200 -
+2025-04-06 18:53:07,314 [INFO] 127.0.0.1 - - [06/Apr/2025 18:53:07] "GET /video_feed HTTP/1.1" 200 -
+2025-04-06 18:53:07,375 [INFO] 127.0.0.1 - - [06/Apr/2025 18:53:07] "GET /api/config HTTP/1.1" 200 -
+2025-04-06 18:53:15,195 [INFO] 127.0.0.1 - - [06/Apr/2025 18:53:15] "GET / HTTP/1.1" 200 -
+2025-04-06 18:53:16,597 [INFO] 127.0.0.1 - - [06/Apr/2025 18:53:16] "GET /video_feed HTTP/1.1" 200 -
+2025-04-06 18:53:16,678 [INFO] 127.0.0.1 - - [06/Apr/2025 18:53:16] "GET /api/config HTTP/1.1" 200 -
+2025-04-06 18:54:05,593 [ERROR] 视频流错误: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2025-04-06 18:59:59,166 [INFO] 127.0.0.1 - - [06/Apr/2025 18:59:59] "GET / HTTP/1.1" 200 -
+2025-04-06 18:59:59,188 [INFO] 127.0.0.1 - - [06/Apr/2025 18:59:59] "GET /video_feed HTTP/1.1" 200 -
+2025-04-06 18:59:59,338 [INFO] 127.0.0.1 - - [06/Apr/2025 18:59:59] "GET /api/config HTTP/1.1" 200 -
+2025-04-06 19:01:55,560 [ERROR] 视频流错误: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2025-04-06 19:03:20,931 [INFO] 127.0.0.1 - - [06/Apr/2025 19:03:20] "GET / HTTP/1.1" 200 -
+2025-04-06 19:03:20,949 [INFO] 127.0.0.1 - - [06/Apr/2025 19:03:20] "GET /video_feed HTTP/1.1" 200 -
+2025-04-06 19:03:21,140 [INFO] 127.0.0.1 - - [06/Apr/2025 19:03:21] "GET /api/config HTTP/1.1" 200 -
+2025-04-06 19:04:16,015 [ERROR] 视频流错误: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2025-04-06 19:08:14,101 [INFO] 127.0.0.1 - - [06/Apr/2025 19:08:14] "GET / HTTP/1.1" 200 -
+2025-04-06 19:08:14,122 [INFO] 127.0.0.1 - - [06/Apr/2025 19:08:14] "GET /video_feed HTTP/1.1" 200 -
+2025-04-06 19:08:14,319 [INFO] 127.0.0.1 - - [06/Apr/2025 19:08:14] "GET /api/config HTTP/1.1" 200 -
+2025-04-06 19:09:47,052 [ERROR] 视频流错误: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2025-04-06 19:10:06,171 [INFO] 127.0.0.1 - - [06/Apr/2025 19:10:06] "GET / HTTP/1.1" 200 -
+2025-04-06 19:10:06,191 [INFO] 127.0.0.1 - - [06/Apr/2025 19:10:06] "GET /video_feed HTTP/1.1" 200 -
+2025-04-06 19:10:06,292 [INFO] 127.0.0.1 - - [06/Apr/2025 19:10:06] "GET /api/config HTTP/1.1" 200 -
+2025-04-06 19:11:00,558 [ERROR] 视频流错误: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2025-04-06 19:12:21,271 [INFO] 127.0.0.1 - - [06/Apr/2025 19:12:21] "GET / HTTP/1.1" 200 -
+2025-04-06 19:12:21,287 [INFO] 127.0.0.1 - - [06/Apr/2025 19:12:21] "GET /video_feed HTTP/1.1" 200 -
+2025-04-06 19:12:21,458 [INFO] 127.0.0.1 - - [06/Apr/2025 19:12:21] "GET /api/config HTTP/1.1" 200 -
+2025-04-06 19:13:53,788 [ERROR] 视频流错误: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2025-04-06 19:17:36,520 [INFO] 127.0.0.1 - - [06/Apr/2025 19:17:36] "GET / HTTP/1.1" 200 -
+2025-04-06 19:17:36,537 [INFO] 127.0.0.1 - - [06/Apr/2025 19:17:36] "GET /video_feed HTTP/1.1" 200 -
+2025-04-06 19:17:36,712 [INFO] 127.0.0.1 - - [06/Apr/2025 19:17:36] "GET /api/config HTTP/1.1" 200 -
+2025-04-06 19:22:38,401 [ERROR] 视频流错误: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2025-04-06 19:23:25,149 [INFO] 127.0.0.1 - - [06/Apr/2025 19:23:25] "GET / HTTP/1.1" 200 -
+2025-04-06 19:23:25,169 [INFO] 127.0.0.1 - - [06/Apr/2025 19:23:25] "GET /video_feed HTTP/1.1" 200 -
+2025-04-06 19:23:25,270 [INFO] 127.0.0.1 - - [06/Apr/2025 19:23:25] "GET /api/config HTTP/1.1" 200 -
+2025-04-06 19:24:01,285 [ERROR] 视频流错误: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2025-04-06 19:26:19,736 [INFO] 127.0.0.1 - - [06/Apr/2025 19:26:19] "GET / HTTP/1.1" 200 -
+2025-04-06 19:26:19,755 [INFO] 127.0.0.1 - - [06/Apr/2025 19:26:19] "GET /video_feed HTTP/1.1" 200 -
+2025-04-06 19:26:19,842 [INFO] 127.0.0.1 - - [06/Apr/2025 19:26:19] "GET /api/config HTTP/1.1" 200 -
+2025-04-06 19:26:45,166 [ERROR] 视频流错误: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2025-04-06 19:27:54,160 [INFO] 127.0.0.1 - - [06/Apr/2025 19:27:54] "GET / HTTP/1.1" 200 -
+2025-04-06 19:27:54,180 [INFO] 127.0.0.1 - - [06/Apr/2025 19:27:54] "GET /video_feed HTTP/1.1" 200 -
+2025-04-06 19:27:54,270 [INFO] 127.0.0.1 - - [06/Apr/2025 19:27:54] "GET /api/config HTTP/1.1" 200 -
+2025-04-06 19:28:08,047 [ERROR] 视频流错误: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2025-04-06 19:28:13,745 [INFO] 127.0.0.1 - - [06/Apr/2025 19:28:13] "GET / HTTP/1.1" 200 -
+2025-04-06 19:28:13,764 [INFO] 127.0.0.1 - - [06/Apr/2025 19:28:13] "GET /video_feed HTTP/1.1" 200 -
+2025-04-06 19:28:13,844 [INFO] 127.0.0.1 - - [06/Apr/2025 19:28:13] "GET /api/config HTTP/1.1" 200 -
+2025-04-06 19:28:19,442 [ERROR] 视频流错误: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2025-04-06 19:28:23,468 [INFO] 127.0.0.1 - - [06/Apr/2025 19:28:23] "GET / HTTP/1.1" 200 -
+2025-04-06 19:28:23,487 [INFO] 127.0.0.1 - - [06/Apr/2025 19:28:23] "GET /video_feed HTTP/1.1" 200 -
+2025-04-06 19:28:23,545 [INFO] 127.0.0.1 - - [06/Apr/2025 19:28:23] "GET /api/config HTTP/1.1" 200 -
+2025-04-06 19:28:52,284 [ERROR] 视频流错误: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2025-04-06 19:30:02,888 [INFO] 127.0.0.1 - - [06/Apr/2025 19:30:02] "GET / HTTP/1.1" 200 -
+2025-04-06 19:30:02,907 [INFO] 127.0.0.1 - - [06/Apr/2025 19:30:02] "GET /video_feed HTTP/1.1" 200 -
+2025-04-06 19:30:03,053 [INFO] 127.0.0.1 - - [06/Apr/2025 19:30:03] "GET /api/config HTTP/1.1" 200 -
+2025-04-06 19:30:11,176 [ERROR] 视频流错误: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2025-04-06 19:30:30,200 [INFO] 127.0.0.1 - - [06/Apr/2025 19:30:30] "GET / HTTP/1.1" 200 -
+2025-04-06 19:30:30,252 [INFO] 127.0.0.1 - - [06/Apr/2025 19:30:30] "GET /api/config HTTP/1.1" 200 -
+2025-04-06 19:30:32,383 [ERROR] 视频流错误: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2025-04-06 19:30:32,383 [INFO] 127.0.0.1 - - [06/Apr/2025 19:30:32] "GET /video_feed HTTP/1.1" 200 -
+2025-04-06 19:30:40,327 [INFO] 127.0.0.1 - - [06/Apr/2025 19:30:40] "GET / HTTP/1.1" 200 -
+2025-04-06 19:30:40,350 [ERROR] 视频流错误: HTTPConnectionPool(host='127.0.0.1', port=8081): Max retries exceeded with url: /stream (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f1aa7e2bc70>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2025-04-06 19:30:40,350 [INFO] 127.0.0.1 - - [06/Apr/2025 19:30:40] "GET /video_feed HTTP/1.1" 200 -
+2025-04-06 19:30:40,369 [INFO] 127.0.0.1 - - [06/Apr/2025 19:30:40] "GET /api/config HTTP/1.1" 200 -
+2025-04-06 19:30:45,888 [INFO] 127.0.0.1 - - [06/Apr/2025 19:30:45] "GET / HTTP/1.1" 200 -
+2025-04-06 19:30:45,935 [INFO] 127.0.0.1 - - [06/Apr/2025 19:30:45] "GET /api/config HTTP/1.1" 200 -
+2025-04-06 19:30:46,004 [INFO] 127.0.0.1 - - [06/Apr/2025 19:30:46] "GET /video_feed HTTP/1.1" 200 -
+2025-04-06 19:30:51,344 [ERROR] 视频流错误: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2025-04-06 19:31:20,538 [INFO] 127.0.0.1 - - [06/Apr/2025 19:31:20] "GET / HTTP/1.1" 200 -
+2025-04-06 19:31:20,588 [INFO] 127.0.0.1 - - [06/Apr/2025 19:31:20] "GET /api/config HTTP/1.1" 200 -
+2025-04-06 19:31:20,686 [INFO] 127.0.0.1 - - [06/Apr/2025 19:31:20] "GET /video_feed HTTP/1.1" 200 -
+2025-04-06 19:31:25,637 [ERROR] 视频流错误: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2025-04-06 19:31:30,004 [INFO] 127.0.0.1 - - [06/Apr/2025 19:31:30] "GET / HTTP/1.1" 200 -
+2025-04-06 19:31:30,048 [INFO] 127.0.0.1 - - [06/Apr/2025 19:31:30] "GET /api/config HTTP/1.1" 200 -
+2025-04-06 19:31:30,072 [INFO] 127.0.0.1 - - [06/Apr/2025 19:31:30] "GET /video_feed HTTP/1.1" 200 -
+2025-04-06 19:31:36,116 [ERROR] 视频流错误: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2025-04-06 19:32:09,987 [INFO] 127.0.0.1 - - [06/Apr/2025 19:32:09] "GET / HTTP/1.1" 200 -
+2025-04-06 19:32:10,004 [INFO] 127.0.0.1 - - [06/Apr/2025 19:32:10] "GET /video_feed HTTP/1.1" 200 -
+2025-04-06 19:32:10,060 [INFO] 127.0.0.1 - - [06/Apr/2025 19:32:10] "GET /api/config HTTP/1.1" 200 -
+2025-04-06 19:32:23,129 [ERROR] 视频流错误: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2025-04-06 19:32:49,587 [INFO] 127.0.0.1 - - [06/Apr/2025 19:32:49] "GET / HTTP/1.1" 200 -
+2025-04-06 19:32:49,636 [INFO] 127.0.0.1 - - [06/Apr/2025 19:32:49] "GET /api/config HTTP/1.1" 200 -
+2025-04-06 19:32:49,688 [INFO] 127.0.0.1 - - [06/Apr/2025 19:32:49] "GET /video_feed HTTP/1.1" 200 -
+2025-04-06 19:34:48,576 [ERROR] 视频流错误: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2025-04-06 19:34:56,361 [INFO] 127.0.0.1 - - [06/Apr/2025 19:34:56] "GET / HTTP/1.1" 200 -
+2025-04-06 19:34:56,386 [INFO] 127.0.0.1 - - [06/Apr/2025 19:34:56] "GET /video_feed HTTP/1.1" 200 -
+2025-04-06 19:34:56,452 [INFO] 127.0.0.1 - - [06/Apr/2025 19:34:56] "GET /api/config HTTP/1.1" 200 -
+2025-04-06 19:35:39,039 [ERROR] 视频流错误: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2025-04-06 21:52:06,475 [INFO] find ip:None
+2025-04-06 21:52:06,477 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://172.20.195.39:8080
+2025-04-06 21:52:06,477 [INFO] [33mPress CTRL+C to quit[0m
+2025-04-06 21:52:08,296 [INFO] 127.0.0.1 - - [06/Apr/2025 21:52:08] "GET / HTTP/1.1" 200 -
+2025-04-06 21:52:08,316 [INFO] 127.0.0.1 - - [06/Apr/2025 21:52:08] "GET /video_feed HTTP/1.1" 200 -
+2025-04-06 21:52:08,517 [INFO] 127.0.0.1 - - [06/Apr/2025 21:52:08] "GET /api/config HTTP/1.1" 200 -
+2025-04-06 21:52:24,755 [ERROR] 视频流错误: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2025-04-07 21:35:17,875 [INFO] find ip:None
+2025-04-07 21:35:17,877 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://172.20.195.39:8080
+2025-04-07 21:35:17,877 [INFO] [33mPress CTRL+C to quit[0m
+2025-04-07 21:35:23,830 [INFO] 127.0.0.1 - - [07/Apr/2025 21:35:23] "GET / HTTP/1.1" 200 -
+2025-04-07 21:35:23,843 [ERROR] 视频流错误: HTTPConnectionPool(host='127.0.0.1', port=8081): Max retries exceeded with url: /stream (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f522bb1f880>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2025-04-07 21:35:23,843 [INFO] 127.0.0.1 - - [07/Apr/2025 21:35:23] "GET /video_feed HTTP/1.1" 200 -
+2025-04-07 21:35:24,039 [INFO] 127.0.0.1 - - [07/Apr/2025 21:35:24] "GET /api/config HTTP/1.1" 200 -
+2025-04-07 21:35:24,610 [INFO] 127.0.0.1 - - [07/Apr/2025 21:35:24] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-04-07 21:35:31,757 [INFO] 127.0.0.1 - - [07/Apr/2025 21:35:31] "GET / HTTP/1.1" 200 -
+2025-04-07 21:35:31,777 [INFO] 127.0.0.1 - - [07/Apr/2025 21:35:31] "GET /video_feed HTTP/1.1" 200 -
+2025-04-07 21:35:31,873 [INFO] 127.0.0.1 - - [07/Apr/2025 21:35:31] "GET /api/config HTTP/1.1" 200 -
+2025-04-07 21:36:06,319 [ERROR] 视频流错误: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2025-04-07 22:00:39,049 [INFO] 127.0.0.1 - - [07/Apr/2025 22:00:39] "GET / HTTP/1.1" 200 -
+2025-04-07 22:00:39,069 [INFO] 127.0.0.1 - - [07/Apr/2025 22:00:39] "GET /video_feed HTTP/1.1" 200 -
+2025-04-07 22:00:39,252 [INFO] 127.0.0.1 - - [07/Apr/2025 22:00:39] "GET /api/config HTTP/1.1" 200 -
+2025-04-07 22:01:31,628 [ERROR] 视频流错误: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2025-04-07 22:06:56,667 [INFO] 127.0.0.1 - - [07/Apr/2025 22:06:56] "GET / HTTP/1.1" 200 -
+2025-04-07 22:06:56,686 [INFO] 127.0.0.1 - - [07/Apr/2025 22:06:56] "GET /video_feed HTTP/1.1" 200 -
+2025-04-07 22:06:56,846 [INFO] 127.0.0.1 - - [07/Apr/2025 22:06:56] "GET /api/config HTTP/1.1" 200 -
+2025-04-07 22:07:31,036 [ERROR] 视频流错误: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2025-04-08 13:19:01,104 [INFO] find ip:None
+2025-04-08 13:19:01,106 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://172.20.195.39:8080
+2025-04-08 13:19:01,106 [INFO] [33mPress CTRL+C to quit[0m
+2025-04-08 13:19:10,558 [INFO] 127.0.0.1 - - [08/Apr/2025 13:19:10] "GET / HTTP/1.1" 200 -
+2025-04-08 13:19:10,581 [ERROR] 视频流错误: HTTPConnectionPool(host='127.0.0.1', port=8081): Max retries exceeded with url: /stream (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f963f0c3b80>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2025-04-08 13:19:10,581 [INFO] 127.0.0.1 - - [08/Apr/2025 13:19:10] "GET /video_feed HTTP/1.1" 200 -
+2025-04-08 13:19:10,711 [INFO] 127.0.0.1 - - [08/Apr/2025 13:19:10] "GET /api/config HTTP/1.1" 200 -
+2025-04-08 13:19:10,768 [INFO] 127.0.0.1 - - [08/Apr/2025 13:19:10] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-04-08 13:19:14,367 [INFO] 127.0.0.1 - - [08/Apr/2025 13:19:14] "GET / HTTP/1.1" 200 -
+2025-04-08 13:19:14,382 [INFO] 127.0.0.1 - - [08/Apr/2025 13:19:14] "GET /video_feed HTTP/1.1" 200 -
+2025-04-08 13:19:14,436 [INFO] 127.0.0.1 - - [08/Apr/2025 13:19:14] "GET /api/config HTTP/1.1" 200 -
+2025-04-08 13:19:22,629 [ERROR] 视频流错误: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2025-04-08 13:28:55,640 [INFO] 127.0.0.1 - - [08/Apr/2025 13:28:55] "GET / HTTP/1.1" 200 -
+2025-04-08 13:28:55,664 [INFO] 127.0.0.1 - - [08/Apr/2025 13:28:55] "GET /video_feed HTTP/1.1" 200 -
+2025-04-08 13:28:55,871 [INFO] 127.0.0.1 - - [08/Apr/2025 13:28:55] "GET /api/config HTTP/1.1" 200 -
+2025-04-08 13:29:05,395 [ERROR] 视频流错误: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2025-04-08 13:49:15,578 [INFO] 127.0.0.1 - - [08/Apr/2025 13:49:15] "GET / HTTP/1.1" 200 -
+2025-04-08 13:49:15,603 [ERROR] 视频流错误: HTTPConnectionPool(host='127.0.0.1', port=8081): Max retries exceeded with url: /stream (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f963f0c33d0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2025-04-08 13:49:15,603 [INFO] 127.0.0.1 - - [08/Apr/2025 13:49:15] "GET /video_feed HTTP/1.1" 200 -
+2025-04-08 13:49:15,740 [INFO] 127.0.0.1 - - [08/Apr/2025 13:49:15] "GET /api/config HTTP/1.1" 200 -
+2025-04-08 13:49:15,797 [INFO] 127.0.0.1 - - [08/Apr/2025 13:49:15] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-04-08 13:49:21,485 [INFO] 127.0.0.1 - - [08/Apr/2025 13:49:21] "GET / HTTP/1.1" 200 -
+2025-04-08 13:49:21,503 [INFO] 127.0.0.1 - - [08/Apr/2025 13:49:21] "GET /video_feed HTTP/1.1" 200 -
+2025-04-08 13:49:21,554 [INFO] 127.0.0.1 - - [08/Apr/2025 13:49:21] "GET /api/config HTTP/1.1" 200 -
+2025-04-08 13:52:55,942 [ERROR] 视频流错误: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2025-04-08 14:05:34,792 [INFO] 127.0.0.1 - - [08/Apr/2025 14:05:34] "GET / HTTP/1.1" 200 -
+2025-04-08 14:05:34,809 [INFO] 127.0.0.1 - - [08/Apr/2025 14:05:34] "GET /video_feed HTTP/1.1" 200 -
+2025-04-08 14:05:34,965 [INFO] 127.0.0.1 - - [08/Apr/2025 14:05:34] "GET /api/config HTTP/1.1" 200 -
+2025-04-08 14:06:37,530 [ERROR] 视频流错误: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2025-04-08 14:07:37,172 [INFO] 127.0.0.1 - - [08/Apr/2025 14:07:37] "GET / HTTP/1.1" 200 -
+2025-04-08 14:07:37,191 [INFO] 127.0.0.1 - - [08/Apr/2025 14:07:37] "GET /video_feed HTTP/1.1" 200 -
+2025-04-08 14:07:37,254 [INFO] 127.0.0.1 - - [08/Apr/2025 14:07:37] "GET /api/config HTTP/1.1" 200 -
+2025-04-08 14:08:15,314 [ERROR] 视频流错误: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2025-04-08 14:11:54,284 [INFO] 127.0.0.1 - - [08/Apr/2025 14:11:54] "GET / HTTP/1.1" 200 -
+2025-04-08 14:11:54,302 [INFO] 127.0.0.1 - - [08/Apr/2025 14:11:54] "GET /video_feed HTTP/1.1" 200 -
+2025-04-08 14:11:54,441 [INFO] 127.0.0.1 - - [08/Apr/2025 14:11:54] "GET /api/config HTTP/1.1" 200 -
+2025-04-08 14:13:01,053 [ERROR] 视频流错误: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2025-04-08 14:18:36,350 [INFO] 127.0.0.1 - - [08/Apr/2025 14:18:36] "GET / HTTP/1.1" 200 -
+2025-04-08 14:18:36,429 [INFO] 127.0.0.1 - - [08/Apr/2025 14:18:36] "GET /api/config HTTP/1.1" 200 -
+2025-04-08 14:18:36,644 [INFO] 127.0.0.1 - - [08/Apr/2025 14:18:36] "GET /video_feed HTTP/1.1" 200 -
+2025-04-08 14:19:03,061 [ERROR] 视频流错误: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2025-04-08 14:19:36,050 [INFO] 127.0.0.1 - - [08/Apr/2025 14:19:36] "GET / HTTP/1.1" 200 -
+2025-04-08 14:19:36,066 [INFO] 127.0.0.1 - - [08/Apr/2025 14:19:36] "GET /video_feed HTTP/1.1" 200 -
+2025-04-08 14:19:36,129 [INFO] 127.0.0.1 - - [08/Apr/2025 14:19:36] "GET /api/config HTTP/1.1" 200 -
+2025-04-08 14:19:58,161 [ERROR] 视频流错误: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2025-04-08 14:20:28,680 [INFO] 127.0.0.1 - - [08/Apr/2025 14:20:28] "GET / HTTP/1.1" 200 -
+2025-04-08 14:20:28,696 [INFO] 127.0.0.1 - - [08/Apr/2025 14:20:28] "GET /video_feed HTTP/1.1" 200 -
+2025-04-08 14:20:28,771 [INFO] 127.0.0.1 - - [08/Apr/2025 14:20:28] "GET /api/config HTTP/1.1" 200 -
+2025-04-08 14:20:44,809 [ERROR] 视频流错误: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2025-04-08 14:21:21,138 [INFO] 127.0.0.1 - - [08/Apr/2025 14:21:21] "GET / HTTP/1.1" 200 -
+2025-04-08 14:21:21,151 [INFO] 127.0.0.1 - - [08/Apr/2025 14:21:21] "GET /video_feed HTTP/1.1" 200 -
+2025-04-08 14:21:21,241 [INFO] 127.0.0.1 - - [08/Apr/2025 14:21:21] "GET /api/config HTTP/1.1" 200 -
+2025-04-08 14:21:39,747 [ERROR] 视频流错误: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2025-04-08 14:23:32,067 [INFO] 127.0.0.1 - - [08/Apr/2025 14:23:32] "GET / HTTP/1.1" 200 -
+2025-04-08 14:23:32,079 [INFO] 127.0.0.1 - - [08/Apr/2025 14:23:32] "GET /video_feed HTTP/1.1" 200 -
+2025-04-08 14:23:32,152 [INFO] 127.0.0.1 - - [08/Apr/2025 14:23:32] "GET /api/config HTTP/1.1" 200 -
+2025-04-08 14:23:52,303 [ERROR] 视频流错误: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2025-04-08 14:24:28,324 [INFO] 127.0.0.1 - - [08/Apr/2025 14:24:28] "GET / HTTP/1.1" 200 -
+2025-04-08 14:24:28,340 [INFO] 127.0.0.1 - - [08/Apr/2025 14:24:28] "GET /video_feed HTTP/1.1" 200 -
+2025-04-08 14:24:28,414 [INFO] 127.0.0.1 - - [08/Apr/2025 14:24:28] "GET /api/config HTTP/1.1" 200 -
+2025-04-08 14:24:49,058 [ERROR] 视频流错误: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2025-04-08 14:25:40,195 [INFO] 127.0.0.1 - - [08/Apr/2025 14:25:40] "GET / HTTP/1.1" 200 -
+2025-04-08 14:25:40,206 [INFO] 127.0.0.1 - - [08/Apr/2025 14:25:40] "GET /video_feed HTTP/1.1" 200 -
+2025-04-08 14:25:40,272 [INFO] 127.0.0.1 - - [08/Apr/2025 14:25:40] "GET /api/config HTTP/1.1" 200 -
+2025-04-08 14:25:55,416 [ERROR] 视频流错误: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2025-04-08 14:27:33,470 [INFO] 127.0.0.1 - - [08/Apr/2025 14:27:33] "GET / HTTP/1.1" 200 -
+2025-04-08 14:27:33,489 [INFO] 127.0.0.1 - - [08/Apr/2025 14:27:33] "GET /video_feed HTTP/1.1" 200 -
+2025-04-08 14:27:33,550 [INFO] 127.0.0.1 - - [08/Apr/2025 14:27:33] "GET /api/config HTTP/1.1" 200 -
+2025-04-08 14:27:51,123 [ERROR] 视频流错误: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2025-04-08 14:28:57,354 [INFO] 127.0.0.1 - - [08/Apr/2025 14:28:57] "GET / HTTP/1.1" 200 -
+2025-04-08 14:28:57,368 [INFO] 127.0.0.1 - - [08/Apr/2025 14:28:57] "GET /video_feed HTTP/1.1" 200 -
+2025-04-08 14:28:57,437 [INFO] 127.0.0.1 - - [08/Apr/2025 14:28:57] "GET /api/config HTTP/1.1" 200 -
+2025-04-08 14:29:14,961 [ERROR] 视频流错误: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2025-04-08 14:29:20,052 [INFO] 127.0.0.1 - - [08/Apr/2025 14:29:20] "GET / HTTP/1.1" 200 -
+2025-04-08 14:29:20,068 [INFO] 127.0.0.1 - - [08/Apr/2025 14:29:20] "GET /video_feed HTTP/1.1" 200 -
+2025-04-08 14:29:20,155 [INFO] 127.0.0.1 - - [08/Apr/2025 14:29:20] "GET /api/config HTTP/1.1" 200 -
+2025-04-08 14:29:34,922 [ERROR] 视频流错误: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2025-04-08 14:30:28,170 [INFO] 127.0.0.1 - - [08/Apr/2025 14:30:28] "GET / HTTP/1.1" 200 -
+2025-04-08 14:30:28,185 [INFO] 127.0.0.1 - - [08/Apr/2025 14:30:28] "GET /video_feed HTTP/1.1" 200 -
+2025-04-08 14:30:28,255 [INFO] 127.0.0.1 - - [08/Apr/2025 14:30:28] "GET /api/config HTTP/1.1" 200 -
+2025-04-08 14:30:28,448 [INFO] 127.0.0.1 - - [08/Apr/2025 14:30:28] "GET / HTTP/1.1" 200 -
+2025-04-08 14:30:28,471 [INFO] 127.0.0.1 - - [08/Apr/2025 14:30:28] "GET /video_feed HTTP/1.1" 200 -
+2025-04-08 14:30:28,532 [INFO] 127.0.0.1 - - [08/Apr/2025 14:30:28] "GET /api/config HTTP/1.1" 200 -
+2025-04-08 14:31:07,356 [ERROR] 视频流错误: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2025-04-08 14:31:12,482 [INFO] 127.0.0.1 - - [08/Apr/2025 14:31:12] "GET / HTTP/1.1" 200 -
+2025-04-08 14:31:12,500 [INFO] 127.0.0.1 - - [08/Apr/2025 14:31:12] "GET /video_feed HTTP/1.1" 200 -
+2025-04-08 14:31:12,592 [INFO] 127.0.0.1 - - [08/Apr/2025 14:31:12] "GET /api/config HTTP/1.1" 200 -
+2025-04-08 14:31:30,169 [ERROR] 视频流错误: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2025-04-08 14:50:00,756 [INFO] 127.0.0.1 - - [08/Apr/2025 14:50:00] "GET / HTTP/1.1" 200 -
+2025-04-08 14:50:00,773 [INFO] 127.0.0.1 - - [08/Apr/2025 14:50:00] "GET /video_feed HTTP/1.1" 200 -
+2025-04-08 14:50:00,877 [INFO] 127.0.0.1 - - [08/Apr/2025 14:50:00] "GET /api/config HTTP/1.1" 200 -
+2025-04-08 14:50:12,179 [ERROR] 视频流错误: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2025-04-08 15:10:08,375 [INFO] 127.0.0.1 - - [08/Apr/2025 15:10:08] "GET / HTTP/1.1" 200 -
+2025-04-08 15:10:08,393 [INFO] 127.0.0.1 - - [08/Apr/2025 15:10:08] "GET /video_feed HTTP/1.1" 200 -
+2025-04-08 15:10:08,503 [INFO] 127.0.0.1 - - [08/Apr/2025 15:10:08] "GET /api/config HTTP/1.1" 200 -
+2025-04-08 15:11:08,550 [ERROR] 视频流错误: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2025-04-11 19:12:47,242 [INFO] find ip:None
+2025-04-11 19:12:47,244 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://172.20.195.39:8080
+2025-04-11 19:12:47,245 [INFO] [33mPress CTRL+C to quit[0m
+2025-04-11 19:12:56,629 [INFO] 127.0.0.1 - - [11/Apr/2025 19:12:56] "GET / HTTP/1.1" 200 -
+2025-04-11 19:12:56,643 [ERROR] 视频流错误: HTTPConnectionPool(host='127.0.0.1', port=8081): Max retries exceeded with url: /stream (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f6759747880>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2025-04-11 19:12:56,643 [INFO] 127.0.0.1 - - [11/Apr/2025 19:12:56] "GET /video_feed HTTP/1.1" 200 -
+2025-04-11 19:12:59,036 [INFO] 127.0.0.1 - - [11/Apr/2025 19:12:59] "GET /api/config HTTP/1.1" 200 -
+2025-04-11 19:12:59,091 [INFO] 127.0.0.1 - - [11/Apr/2025 19:12:59] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-04-11 19:13:09,999 [INFO] 127.0.0.1 - - [11/Apr/2025 19:13:09] "GET / HTTP/1.1" 200 -
+2025-04-11 19:13:10,020 [INFO] 127.0.0.1 - - [11/Apr/2025 19:13:10] "GET /video_feed HTTP/1.1" 200 -
+2025-04-11 19:13:10,098 [INFO] 127.0.0.1 - - [11/Apr/2025 19:13:10] "GET /api/config HTTP/1.1" 200 -
+2025-04-11 19:13:15,797 [INFO] 127.0.0.1 - - [11/Apr/2025 19:13:15] "[33mGET /stream HTTP/1.1[0m" 404 -
+2025-04-11 19:13:18,452 [INFO] 127.0.0.1 - - [11/Apr/2025 19:13:18] "GET /video_feed HTTP/1.1" 200 -
+2025-04-11 19:13:44,161 [ERROR] 视频流错误: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2025-04-11 19:15:24,866 [INFO] 127.0.0.1 - - [11/Apr/2025 19:15:24] "[33mGET /stream HTTP/1.1[0m" 404 -
+2025-04-11 19:15:38,722 [INFO] 127.0.0.1 - - [11/Apr/2025 19:15:38] "GET / HTTP/1.1" 200 -
+2025-04-11 19:15:38,745 [INFO] 127.0.0.1 - - [11/Apr/2025 19:15:38] "GET /video_feed HTTP/1.1" 200 -
+2025-04-11 19:15:38,914 [INFO] 127.0.0.1 - - [11/Apr/2025 19:15:38] "GET /api/config HTTP/1.1" 200 -
+2025-04-11 19:16:15,505 [ERROR] 视频流错误: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2025-04-11 19:17:22,814 [INFO] 127.0.0.1 - - [11/Apr/2025 19:17:22] "GET / HTTP/1.1" 200 -
+2025-04-11 19:17:22,838 [INFO] 127.0.0.1 - - [11/Apr/2025 19:17:22] "GET /video_feed HTTP/1.1" 200 -
+2025-04-11 19:17:22,934 [INFO] 127.0.0.1 - - [11/Apr/2025 19:17:22] "GET /api/config HTTP/1.1" 200 -
+2025-04-11 19:18:58,458 [ERROR] 视频流错误: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2025-04-11 19:23:00,255 [INFO] 127.0.0.1 - - [11/Apr/2025 19:23:00] "GET / HTTP/1.1" 200 -
+2025-04-11 19:23:00,274 [INFO] 127.0.0.1 - - [11/Apr/2025 19:23:00] "GET /video_feed HTTP/1.1" 200 -
+2025-04-11 19:23:00,347 [INFO] 127.0.0.1 - - [11/Apr/2025 19:23:00] "GET /api/config HTTP/1.1" 200 -
+2025-04-11 19:23:27,504 [ERROR] 视频流错误: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2025-04-11 19:24:38,421 [INFO] 127.0.0.1 - - [11/Apr/2025 19:24:38] "GET / HTTP/1.1" 200 -
+2025-04-11 19:24:38,445 [INFO] 127.0.0.1 - - [11/Apr/2025 19:24:38] "GET /video_feed HTTP/1.1" 200 -
+2025-04-11 19:24:38,532 [INFO] 127.0.0.1 - - [11/Apr/2025 19:24:38] "GET /api/config HTTP/1.1" 200 -
+2025-04-11 19:25:34,623 [ERROR] 视频流错误: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2025-04-11 19:30:43,145 [INFO] 127.0.0.1 - - [11/Apr/2025 19:30:43] "GET / HTTP/1.1" 200 -
+2025-04-11 19:30:43,173 [INFO] 127.0.0.1 - - [11/Apr/2025 19:30:43] "GET /video_feed HTTP/1.1" 200 -
+2025-04-11 19:30:43,316 [INFO] 127.0.0.1 - - [11/Apr/2025 19:30:43] "GET /api/config HTTP/1.1" 200 -
+2025-04-11 19:33:20,834 [ERROR] 视频流错误: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2025-04-11 19:33:25,230 [INFO] 127.0.0.1 - - [11/Apr/2025 19:33:25] "GET / HTTP/1.1" 200 -
+2025-04-11 19:33:25,253 [INFO] 127.0.0.1 - - [11/Apr/2025 19:33:25] "GET /video_feed HTTP/1.1" 200 -
+2025-04-11 19:33:25,341 [INFO] 127.0.0.1 - - [11/Apr/2025 19:33:25] "GET /api/config HTTP/1.1" 200 -
+2025-04-11 19:34:55,279 [ERROR] 视频流错误: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2025-04-18 17:02:32,122 [INFO] find ip:None
+2025-04-18 17:02:32,124 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://172.20.195.39:8080
+2025-04-18 17:02:32,124 [INFO] [33mPress CTRL+C to quit[0m
+2025-04-18 17:04:01,231 [INFO] find ip:None
+2025-04-18 17:04:01,233 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://172.20.195.39:8080
+2025-04-18 17:04:01,233 [INFO] [33mPress CTRL+C to quit[0m
+2025-04-18 17:04:20,888 [INFO] find ip:None
+2025-04-18 17:04:20,889 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://172.20.195.39:8080
+2025-04-18 17:04:20,889 [INFO] [33mPress CTRL+C to quit[0m
+2025-04-18 17:04:47,129 [INFO] 172.20.192.1 - - [18/Apr/2025 17:04:47] "GET / HTTP/1.1" 200 -
+2025-04-18 17:04:47,142 [ERROR] 视频流错误: HTTPConnectionPool(host='127.0.0.1', port=8081): Max retries exceeded with url: /stream (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f6a76d9fb80>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2025-04-18 17:04:47,143 [INFO] 172.20.192.1 - - [18/Apr/2025 17:04:47] "GET /video_feed HTTP/1.1" 200 -
+2025-04-18 17:04:47,773 [INFO] 172.20.192.1 - - [18/Apr/2025 17:04:47] "GET /api/config HTTP/1.1" 200 -
+2025-04-18 17:04:48,166 [INFO] 172.20.192.1 - - [18/Apr/2025 17:04:48] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-04-18 17:05:25,082 [INFO] 172.20.192.1 - - [18/Apr/2025 17:05:25] "GET / HTTP/1.1" 200 -
+2025-04-18 17:05:25,107 [INFO] 172.20.192.1 - - [18/Apr/2025 17:05:25] "GET /video_feed HTTP/1.1" 200 -
+2025-04-18 17:05:25,155 [INFO] 172.20.192.1 - - [18/Apr/2025 17:05:25] "GET /api/config HTTP/1.1" 200 -
+2025-04-18 17:05:39,740 [ERROR] 视频流错误: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2025-04-18 17:05:53,975 [INFO] 172.20.192.1 - - [18/Apr/2025 17:05:53] "GET / HTTP/1.1" 200 -
+2025-04-18 17:05:54,033 [INFO] 172.20.192.1 - - [18/Apr/2025 17:05:54] "GET /api/config HTTP/1.1" 200 -
+2025-04-18 17:05:54,427 [INFO] 172.20.192.1 - - [18/Apr/2025 17:05:54] "GET /video_feed HTTP/1.1" 200 -
+2025-04-18 17:06:52,708 [ERROR] 视频流错误: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2025-04-18 17:06:56,512 [INFO] 172.20.192.1 - - [18/Apr/2025 17:06:56] "GET / HTTP/1.1" 200 -
+2025-04-18 17:06:56,579 [INFO] 172.20.192.1 - - [18/Apr/2025 17:06:56] "GET /api/config HTTP/1.1" 200 -
+2025-04-18 17:06:56,899 [INFO] 172.20.192.1 - - [18/Apr/2025 17:06:56] "GET /video_feed HTTP/1.1" 200 -
+2025-04-18 17:07:20,777 [ERROR] 视频流错误: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2025-04-18 17:09:38,981 [INFO] 172.20.192.1 - - [18/Apr/2025 17:09:38] "GET / HTTP/1.1" 200 -
+2025-04-18 17:09:39,052 [INFO] 172.20.192.1 - - [18/Apr/2025 17:09:39] "GET /api/config HTTP/1.1" 200 -
+2025-04-18 17:09:39,281 [INFO] 172.20.192.1 - - [18/Apr/2025 17:09:39] "GET /video_feed HTTP/1.1" 200 -
+2025-04-18 17:09:44,866 [ERROR] 视频流错误: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2025-04-18 17:10:54,564 [INFO] 172.20.192.1 - - [18/Apr/2025 17:10:54] "GET / HTTP/1.1" 200 -
+2025-04-18 17:10:54,619 [INFO] 172.20.192.1 - - [18/Apr/2025 17:10:54] "GET /api/config HTTP/1.1" 200 -
+2025-04-18 17:10:54,825 [INFO] 172.20.192.1 - - [18/Apr/2025 17:10:54] "GET /video_feed HTTP/1.1" 200 -
+2025-04-18 17:11:41,785 [ERROR] 视频流错误: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2025-04-18 17:15:31,740 [INFO] 172.20.192.1 - - [18/Apr/2025 17:15:31] "GET / HTTP/1.1" 200 -
+2025-04-18 17:15:31,759 [INFO] 172.20.192.1 - - [18/Apr/2025 17:15:31] "GET /video_feed HTTP/1.1" 200 -
+2025-04-18 17:15:31,942 [INFO] 172.20.192.1 - - [18/Apr/2025 17:15:31] "GET /api/config HTTP/1.1" 200 -
+2025-04-18 17:15:54,421 [ERROR] 视频流错误: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2025-04-18 17:16:48,703 [INFO] 172.20.192.1 - - [18/Apr/2025 17:16:48] "GET / HTTP/1.1" 200 -
+2025-04-18 17:16:48,718 [INFO] 172.20.192.1 - - [18/Apr/2025 17:16:48] "GET /video_feed HTTP/1.1" 200 -
+2025-04-18 17:16:48,799 [INFO] 172.20.192.1 - - [18/Apr/2025 17:16:48] "GET /api/config HTTP/1.1" 200 -
+2025-04-18 17:17:07,759 [ERROR] 视频流错误: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2025-04-18 17:17:33,504 [INFO] 172.20.192.1 - - [18/Apr/2025 17:17:33] "GET / HTTP/1.1" 200 -
+2025-04-18 17:17:33,555 [INFO] 172.20.192.1 - - [18/Apr/2025 17:17:33] "GET /api/config HTTP/1.1" 200 -
+2025-04-18 17:17:33,750 [INFO] 172.20.192.1 - - [18/Apr/2025 17:17:33] "GET /video_feed HTTP/1.1" 200 -
+2025-04-18 17:17:37,976 [ERROR] 视频流错误: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2025-04-18 17:18:19,650 [INFO] 172.20.192.1 - - [18/Apr/2025 17:18:19] "GET / HTTP/1.1" 200 -
+2025-04-18 17:18:19,668 [ERROR] 视频流错误: HTTPConnectionPool(host='127.0.0.1', port=8081): Max retries exceeded with url: /stream (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f6a76e18880>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2025-04-18 17:18:19,668 [INFO] 172.20.192.1 - - [18/Apr/2025 17:18:19] "GET /video_feed HTTP/1.1" 200 -
+2025-04-18 17:18:19,714 [INFO] 172.20.192.1 - - [18/Apr/2025 17:18:19] "GET /api/config HTTP/1.1" 200 -
+2025-04-18 17:18:27,237 [INFO] 172.20.192.1 - - [18/Apr/2025 17:18:27] "GET / HTTP/1.1" 200 -
+2025-04-18 17:18:27,258 [INFO] 172.20.192.1 - - [18/Apr/2025 17:18:27] "GET /video_feed HTTP/1.1" 200 -
+2025-04-18 17:18:27,321 [INFO] 172.20.192.1 - - [18/Apr/2025 17:18:27] "GET /api/config HTTP/1.1" 200 -
+2025-04-18 17:18:35,984 [ERROR] 视频流错误: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2025-04-18 17:23:15,439 [INFO] 172.20.192.1 - - [18/Apr/2025 17:23:15] "GET / HTTP/1.1" 200 -
+2025-04-18 17:23:15,517 [INFO] 172.20.192.1 - - [18/Apr/2025 17:23:15] "GET /api/config HTTP/1.1" 200 -
+2025-04-18 17:23:15,947 [INFO] 172.20.192.1 - - [18/Apr/2025 17:23:15] "GET /video_feed HTTP/1.1" 200 -
+2025-04-18 17:23:20,504 [ERROR] 视频流错误: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2025-04-18 17:23:56,708 [INFO] 172.20.192.1 - - [18/Apr/2025 17:23:56] "GET / HTTP/1.1" 200 -
+2025-04-18 17:23:56,784 [INFO] 172.20.192.1 - - [18/Apr/2025 17:23:56] "GET /api/config HTTP/1.1" 200 -
+2025-04-18 17:23:57,171 [INFO] 172.20.192.1 - - [18/Apr/2025 17:23:57] "GET /video_feed HTTP/1.1" 200 -
+2025-04-18 17:24:15,250 [ERROR] 视频流错误: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2025-04-18 17:26:57,422 [INFO] 172.20.192.1 - - [18/Apr/2025 17:26:57] "GET / HTTP/1.1" 200 -
+2025-04-18 17:26:57,549 [INFO] 172.20.192.1 - - [18/Apr/2025 17:26:57] "GET /api/config HTTP/1.1" 200 -
+2025-04-18 17:26:57,772 [INFO] 172.20.192.1 - - [18/Apr/2025 17:26:57] "GET /video_feed HTTP/1.1" 200 -
+2025-04-18 17:27:11,742 [ERROR] 视频流错误: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2025-04-18 18:39:14,438 [INFO] 172.20.192.1 - - [18/Apr/2025 18:39:14] "GET / HTTP/1.1" 200 -
+2025-04-18 18:39:14,564 [INFO] 172.20.192.1 - - [18/Apr/2025 18:39:14] "GET /api/config HTTP/1.1" 200 -
+2025-04-18 18:39:15,400 [INFO] 172.20.192.1 - - [18/Apr/2025 18:39:15] "GET /video_feed HTTP/1.1" 200 -
+2025-04-18 18:39:26,007 [ERROR] 视频流错误: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2025-04-18 19:01:09,541 [INFO] 172.20.192.1 - - [18/Apr/2025 19:01:09] "GET / HTTP/1.1" 200 -
+2025-04-18 19:01:09,567 [ERROR] 视频流错误: HTTPConnectionPool(host='127.0.0.1', port=8081): Max retries exceeded with url: /stream (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f6a76d9d810>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2025-04-18 19:01:09,567 [INFO] 172.20.192.1 - - [18/Apr/2025 19:01:09] "GET /video_feed HTTP/1.1" 200 -
+2025-04-18 19:01:09,655 [INFO] 172.20.192.1 - - [18/Apr/2025 19:01:09] "GET /api/config HTTP/1.1" 200 -
+2025-04-18 19:01:12,328 [INFO] 172.20.192.1 - - [18/Apr/2025 19:01:12] "GET / HTTP/1.1" 200 -
+2025-04-18 19:01:12,352 [INFO] 172.20.192.1 - - [18/Apr/2025 19:01:12] "GET /video_feed HTTP/1.1" 200 -
+2025-04-18 19:01:12,399 [INFO] 172.20.192.1 - - [18/Apr/2025 19:01:12] "GET /api/config HTTP/1.1" 200 -
+2025-04-18 19:01:30,302 [ERROR] 视频流错误: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2025-04-18 19:14:42,931 [INFO] 172.20.192.1 - - [18/Apr/2025 19:14:42] "GET / HTTP/1.1" 200 -
+2025-04-18 19:14:43,025 [INFO] 172.20.192.1 - - [18/Apr/2025 19:14:43] "GET /api/config HTTP/1.1" 200 -
+2025-04-18 19:14:43,549 [INFO] 172.20.192.1 - - [18/Apr/2025 19:14:43] "GET /video_feed HTTP/1.1" 200 -
+2025-04-18 19:14:52,188 [ERROR] 视频流错误: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2025-04-19 12:39:58,175 [INFO] find ip:None
+2025-04-19 12:39:58,177 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://172.20.195.39:8080
+2025-04-19 12:39:58,177 [INFO] [33mPress CTRL+C to quit[0m
+2025-04-19 13:33:21,377 [INFO] 172.20.192.1 - - [19/Apr/2025 13:33:21] "GET / HTTP/1.1" 200 -
+2025-04-19 13:33:21,392 [ERROR] 视频流错误: HTTPConnectionPool(host='127.0.0.1', port=8081): Max retries exceeded with url: /stream (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f38c4117b80>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2025-04-19 13:33:21,393 [INFO] 172.20.192.1 - - [19/Apr/2025 13:33:21] "GET /video_feed HTTP/1.1" 200 -
+2025-04-19 13:33:21,681 [INFO] 172.20.192.1 - - [19/Apr/2025 13:33:21] "GET /api/config HTTP/1.1" 200 -
+2025-04-19 13:33:48,809 [INFO] 172.20.192.1 - - [19/Apr/2025 13:33:48] "GET / HTTP/1.1" 200 -
+2025-04-19 13:33:48,861 [INFO] 172.20.192.1 - - [19/Apr/2025 13:33:48] "GET /api/config HTTP/1.1" 200 -
+2025-04-19 13:33:49,165 [INFO] 172.20.192.1 - - [19/Apr/2025 13:33:49] "GET /video_feed HTTP/1.1" 200 -
+2025-04-19 13:34:18,658 [ERROR] 视频流错误: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2025-04-19 13:35:10,731 [INFO] 172.20.192.1 - - [19/Apr/2025 13:35:10] "GET / HTTP/1.1" 200 -
+2025-04-19 13:35:10,811 [INFO] 172.20.192.1 - - [19/Apr/2025 13:35:10] "GET /api/config HTTP/1.1" 200 -
+2025-04-19 13:35:11,106 [INFO] 172.20.192.1 - - [19/Apr/2025 13:35:11] "GET /video_feed HTTP/1.1" 200 -
+2025-04-19 13:35:32,374 [ERROR] 视频流错误: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2025-04-19 13:36:07,523 [INFO] 172.20.192.1 - - [19/Apr/2025 13:36:07] "GET / HTTP/1.1" 200 -
+2025-04-19 13:36:07,570 [INFO] 172.20.192.1 - - [19/Apr/2025 13:36:07] "GET /api/config HTTP/1.1" 200 -
+2025-04-19 13:36:07,963 [INFO] 172.20.192.1 - - [19/Apr/2025 13:36:07] "GET /video_feed HTTP/1.1" 200 -
+2025-04-19 13:36:23,619 [ERROR] 视频流错误: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2025-04-19 13:39:21,612 [INFO] 172.20.192.1 - - [19/Apr/2025 13:39:21] "GET / HTTP/1.1" 200 -
+2025-04-19 13:39:21,732 [INFO] 172.20.192.1 - - [19/Apr/2025 13:39:21] "GET /api/config HTTP/1.1" 200 -
+2025-04-19 13:39:22,062 [INFO] 172.20.192.1 - - [19/Apr/2025 13:39:22] "GET /video_feed HTTP/1.1" 200 -
+2025-04-19 13:39:42,016 [ERROR] 视频流错误: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2025-04-19 13:47:18,956 [INFO] 172.20.192.1 - - [19/Apr/2025 13:47:18] "GET / HTTP/1.1" 200 -
+2025-04-19 13:47:19,011 [INFO] 172.20.192.1 - - [19/Apr/2025 13:47:19] "GET /api/config HTTP/1.1" 200 -
+2025-04-19 13:47:19,516 [INFO] 172.20.192.1 - - [19/Apr/2025 13:47:19] "GET /video_feed HTTP/1.1" 200 -
+2025-04-19 13:48:00,166 [ERROR] 视频流错误: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2025-04-19 14:08:21,708 [INFO] 172.20.192.1 - - [19/Apr/2025 14:08:21] "GET / HTTP/1.1" 200 -
+2025-04-19 14:08:21,765 [INFO] 172.20.192.1 - - [19/Apr/2025 14:08:21] "GET /api/config HTTP/1.1" 200 -
+2025-04-19 14:08:22,308 [INFO] 172.20.192.1 - - [19/Apr/2025 14:08:22] "GET /video_feed HTTP/1.1" 200 -
+2025-04-19 14:08:29,059 [ERROR] 视频流错误: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2025-04-19 14:12:52,047 [INFO] 172.20.192.1 - - [19/Apr/2025 14:12:52] "GET / HTTP/1.1" 200 -
+2025-04-19 14:12:52,120 [INFO] 172.20.192.1 - - [19/Apr/2025 14:12:52] "GET /api/config HTTP/1.1" 200 -
+2025-04-19 14:12:52,595 [INFO] 172.20.192.1 - - [19/Apr/2025 14:12:52] "GET /video_feed HTTP/1.1" 200 -
+2025-04-19 14:13:26,652 [ERROR] 视频流错误: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2025-04-19 14:23:06,311 [INFO] 172.20.192.1 - - [19/Apr/2025 14:23:06] "GET / HTTP/1.1" 200 -
+2025-04-19 14:23:06,335 [INFO] 172.20.192.1 - - [19/Apr/2025 14:23:06] "GET /video_feed HTTP/1.1" 200 -
+2025-04-19 14:23:06,449 [INFO] 172.20.192.1 - - [19/Apr/2025 14:23:06] "GET /api/config HTTP/1.1" 200 -
+2025-04-19 14:24:07,058 [ERROR] 视频流错误: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2025-04-19 14:25:24,115 [INFO] 172.20.192.1 - - [19/Apr/2025 14:25:24] "GET / HTTP/1.1" 200 -
+2025-04-19 14:25:24,138 [INFO] 172.20.192.1 - - [19/Apr/2025 14:25:24] "GET /video_feed HTTP/1.1" 200 -
+2025-04-19 14:25:24,203 [INFO] 172.20.192.1 - - [19/Apr/2025 14:25:24] "GET /api/config HTTP/1.1" 200 -
+2025-04-19 14:26:17,454 [ERROR] 视频流错误: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2025-04-19 14:27:50,253 [INFO] 172.20.192.1 - - [19/Apr/2025 14:27:50] "GET / HTTP/1.1" 200 -
+2025-04-19 14:27:50,279 [INFO] 172.20.192.1 - - [19/Apr/2025 14:27:50] "GET /video_feed HTTP/1.1" 200 -
+2025-04-19 14:27:50,329 [INFO] 172.20.192.1 - - [19/Apr/2025 14:27:50] "GET /api/config HTTP/1.1" 200 -
+2025-04-19 14:27:50,465 [INFO] 172.20.192.1 - - [19/Apr/2025 14:27:50] "GET / HTTP/1.1" 200 -
+2025-04-19 14:27:50,483 [INFO] 172.20.192.1 - - [19/Apr/2025 14:27:50] "GET /video_feed HTTP/1.1" 200 -
+2025-04-19 14:27:50,519 [INFO] 172.20.192.1 - - [19/Apr/2025 14:27:50] "GET /api/config HTTP/1.1" 200 -
+2025-04-19 14:28:19,213 [ERROR] 视频流错误: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2025-04-19 14:52:28,995 [INFO] 172.20.192.1 - - [19/Apr/2025 14:52:28] "GET / HTTP/1.1" 200 -
+2025-04-19 14:52:29,021 [INFO] 172.20.192.1 - - [19/Apr/2025 14:52:29] "GET /video_feed HTTP/1.1" 200 -
+2025-04-19 14:52:29,139 [INFO] 172.20.192.1 - - [19/Apr/2025 14:52:29] "GET /api/config HTTP/1.1" 200 -
+2025-04-19 14:53:41,890 [ERROR] 视频流错误: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2025-04-19 15:00:52,909 [INFO] 172.20.192.1 - - [19/Apr/2025 15:00:52] "GET / HTTP/1.1" 200 -
+2025-04-19 15:00:52,932 [INFO] 172.20.192.1 - - [19/Apr/2025 15:00:52] "GET /video_feed HTTP/1.1" 200 -
+2025-04-19 15:00:53,042 [INFO] 172.20.192.1 - - [19/Apr/2025 15:00:53] "GET /api/config HTTP/1.1" 200 -
+2025-04-19 15:01:48,399 [ERROR] 视频流错误: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2025-04-19 15:12:53,403 [INFO] 172.20.192.1 - - [19/Apr/2025 15:12:53] "GET / HTTP/1.1" 200 -
+2025-04-19 15:12:53,431 [INFO] 172.20.192.1 - - [19/Apr/2025 15:12:53] "GET /video_feed HTTP/1.1" 200 -
+2025-04-19 15:12:53,576 [INFO] 172.20.192.1 - - [19/Apr/2025 15:12:53] "GET /api/config HTTP/1.1" 200 -
+2025-04-19 15:13:56,621 [ERROR] 视频流错误: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2025-04-19 16:06:19,255 [INFO] 172.20.192.1 - - [19/Apr/2025 16:06:19] "GET / HTTP/1.1" 200 -
+2025-04-19 16:06:19,278 [INFO] 172.20.192.1 - - [19/Apr/2025 16:06:19] "GET /video_feed HTTP/1.1" 200 -
+2025-04-19 16:06:19,403 [INFO] 172.20.192.1 - - [19/Apr/2025 16:06:19] "GET /api/config HTTP/1.1" 200 -
+2025-04-19 16:07:57,790 [ERROR] 视频流错误: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2025-04-19 16:13:24,764 [INFO] 172.20.192.1 - - [19/Apr/2025 16:13:24] "GET / HTTP/1.1" 200 -
+2025-04-19 16:13:24,786 [INFO] 172.20.192.1 - - [19/Apr/2025 16:13:24] "GET /video_feed HTTP/1.1" 200 -
+2025-04-19 16:13:24,896 [INFO] 172.20.192.1 - - [19/Apr/2025 16:13:24] "GET /api/config HTTP/1.1" 200 -
+2025-04-19 16:14:57,202 [ERROR] 视频流错误: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2025-04-19 18:35:16,545 [INFO] 172.20.192.1 - - [19/Apr/2025 18:35:16] "GET / HTTP/1.1" 200 -
+2025-04-19 18:35:16,580 [INFO] 172.20.192.1 - - [19/Apr/2025 18:35:16] "GET /video_feed HTTP/1.1" 200 -
+2025-04-19 18:35:16,703 [INFO] 172.20.192.1 - - [19/Apr/2025 18:35:16] "GET /api/config HTTP/1.1" 200 -
+2025-04-19 18:35:16,737 [INFO] 172.20.192.1 - - [19/Apr/2025 18:35:16] "GET / HTTP/1.1" 200 -
+2025-04-19 18:35:16,776 [INFO] 172.20.192.1 - - [19/Apr/2025 18:35:16] "GET /video_feed HTTP/1.1" 200 -
+2025-04-19 18:35:16,828 [INFO] 172.20.192.1 - - [19/Apr/2025 18:35:16] "GET /api/config HTTP/1.1" 200 -
+2025-04-19 18:35:31,007 [ERROR] 视频流错误: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2025-04-19 18:39:01,717 [INFO] 172.20.192.1 - - [19/Apr/2025 18:39:01] "GET / HTTP/1.1" 200 -
+2025-04-19 18:39:01,742 [INFO] 172.20.192.1 - - [19/Apr/2025 18:39:01] "GET /video_feed HTTP/1.1" 200 -
+2025-04-19 18:39:01,854 [INFO] 172.20.192.1 - - [19/Apr/2025 18:39:01] "GET /api/config HTTP/1.1" 200 -
+2025-04-19 18:39:07,394 [ERROR] 视频流错误: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2025-04-19 18:40:41,250 [INFO] 172.20.192.1 - - [19/Apr/2025 18:40:41] "GET / HTTP/1.1" 200 -
+2025-04-19 18:40:41,274 [INFO] 172.20.192.1 - - [19/Apr/2025 18:40:41] "GET /video_feed HTTP/1.1" 200 -
+2025-04-19 18:40:41,393 [INFO] 172.20.192.1 - - [19/Apr/2025 18:40:41] "GET /api/config HTTP/1.1" 200 -
+2025-04-19 18:41:47,403 [ERROR] 视频流错误: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2025-04-19 18:43:53,200 [INFO] 172.20.192.1 - - [19/Apr/2025 18:43:53] "GET / HTTP/1.1" 200 -
+2025-04-19 18:43:53,296 [INFO] 172.20.192.1 - - [19/Apr/2025 18:43:53] "GET /api/config HTTP/1.1" 200 -
+2025-04-19 18:43:53,529 [INFO] 172.20.192.1 - - [19/Apr/2025 18:43:53] "GET /video_feed HTTP/1.1" 200 -
+2025-04-19 18:44:39,785 [ERROR] 视频流错误: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2025-04-19 18:44:53,651 [INFO] 172.20.192.1 - - [19/Apr/2025 18:44:53] "GET / HTTP/1.1" 200 -
+2025-04-19 18:44:53,727 [INFO] 172.20.192.1 - - [19/Apr/2025 18:44:53] "GET /api/config HTTP/1.1" 200 -
+2025-04-19 18:44:53,951 [INFO] 172.20.192.1 - - [19/Apr/2025 18:44:53] "GET /video_feed HTTP/1.1" 200 -
+2025-04-19 18:46:21,726 [ERROR] 视频流错误: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2025-04-19 18:58:26,689 [INFO] 172.20.192.1 - - [19/Apr/2025 18:58:26] "GET / HTTP/1.1" 200 -
+2025-04-19 18:58:26,721 [ERROR] 视频流错误: HTTPConnectionPool(host='127.0.0.1', port=8081): Max retries exceeded with url: /stream (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f38c4199630>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2025-04-19 18:58:26,721 [INFO] 172.20.192.1 - - [19/Apr/2025 18:58:26] "GET /video_feed HTTP/1.1" 200 -
+2025-04-19 18:58:26,758 [INFO] 172.20.192.1 - - [19/Apr/2025 18:58:26] "GET /api/config HTTP/1.1" 200 -
+2025-04-19 19:28:54,895 [INFO] find ip:None
+2025-04-19 19:28:54,896 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://172.20.195.39:8080
+2025-04-19 19:28:54,896 [INFO] [33mPress CTRL+C to quit[0m
+2025-04-19 19:29:12,911 [INFO] 172.20.192.1 - - [19/Apr/2025 19:29:12] "GET / HTTP/1.1" 200 -
+2025-04-19 19:29:12,936 [INFO] 172.20.192.1 - - [19/Apr/2025 19:29:12] "GET /video_feed HTTP/1.1" 200 -
+2025-04-19 19:29:12,998 [INFO] 172.20.192.1 - - [19/Apr/2025 19:29:12] "GET /api/config HTTP/1.1" 200 -
+2025-04-19 19:29:22,917 [ERROR] 视频流错误: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2025-04-19 19:30:17,706 [INFO] 172.20.192.1 - - [19/Apr/2025 19:30:17] "GET / HTTP/1.1" 200 -
+2025-04-19 19:30:17,785 [INFO] 172.20.192.1 - - [19/Apr/2025 19:30:17] "GET /api/config HTTP/1.1" 200 -
+2025-04-19 19:30:17,873 [INFO] 172.20.192.1 - - [19/Apr/2025 19:30:17] "GET /video_feed HTTP/1.1" 200 -
+2025-04-19 19:30:47,107 [ERROR] 视频流错误: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2025-04-19 19:31:08,734 [INFO] 172.20.192.1 - - [19/Apr/2025 19:31:08] "GET / HTTP/1.1" 200 -
+2025-04-19 19:31:08,789 [INFO] 172.20.192.1 - - [19/Apr/2025 19:31:08] "GET /api/config HTTP/1.1" 200 -
+2025-04-19 19:31:09,050 [INFO] 172.20.192.1 - - [19/Apr/2025 19:31:09] "GET /video_feed HTTP/1.1" 200 -
+2025-04-19 19:31:26,794 [ERROR] 视频流错误: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2025-04-19 19:32:15,237 [INFO] 172.20.192.1 - - [19/Apr/2025 19:32:15] "GET / HTTP/1.1" 200 -
+2025-04-19 19:32:15,296 [INFO] 172.20.192.1 - - [19/Apr/2025 19:32:15] "GET /api/config HTTP/1.1" 200 -
+2025-04-19 19:32:15,570 [INFO] 172.20.192.1 - - [19/Apr/2025 19:32:15] "GET /video_feed HTTP/1.1" 200 -
+2025-04-19 19:32:34,136 [ERROR] 视频流错误: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2025-04-19 19:33:02,321 [INFO] 172.20.192.1 - - [19/Apr/2025 19:33:02] "GET / HTTP/1.1" 200 -
+2025-04-19 19:33:02,400 [INFO] 172.20.192.1 - - [19/Apr/2025 19:33:02] "GET /api/config HTTP/1.1" 200 -
+2025-04-19 19:33:02,552 [INFO] 172.20.192.1 - - [19/Apr/2025 19:33:02] "GET /video_feed HTTP/1.1" 200 -
+2025-04-19 19:33:14,309 [ERROR] 视频流错误: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2025-04-19 19:33:33,245 [INFO] 172.20.192.1 - - [19/Apr/2025 19:33:33] "GET / HTTP/1.1" 200 -
+2025-04-19 19:33:33,268 [INFO] 172.20.192.1 - - [19/Apr/2025 19:33:33] "GET /video_feed HTTP/1.1" 200 -
+2025-04-19 19:33:33,357 [INFO] 172.20.192.1 - - [19/Apr/2025 19:33:33] "GET /api/config HTTP/1.1" 200 -
+2025-04-19 19:33:46,226 [ERROR] 视频流错误: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2025-04-19 19:46:07,841 [INFO] 172.20.192.1 - - [19/Apr/2025 19:46:07] "GET / HTTP/1.1" 200 -
+2025-04-19 19:46:07,869 [INFO] 172.20.192.1 - - [19/Apr/2025 19:46:07] "GET /video_feed HTTP/1.1" 200 -
+2025-04-19 19:46:08,029 [INFO] 172.20.192.1 - - [19/Apr/2025 19:46:08] "GET /api/config HTTP/1.1" 200 -
+2025-04-19 19:46:20,069 [ERROR] 视频流错误: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2025-04-19 19:46:48,888 [INFO] 172.20.192.1 - - [19/Apr/2025 19:46:48] "GET / HTTP/1.1" 200 -
+2025-04-19 19:46:48,924 [INFO] 172.20.192.1 - - [19/Apr/2025 19:46:48] "GET /video_feed HTTP/1.1" 200 -
+2025-04-19 19:46:48,991 [INFO] 172.20.192.1 - - [19/Apr/2025 19:46:48] "GET /api/config HTTP/1.1" 200 -
+2025-04-19 19:46:55,245 [ERROR] 视频流错误: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2025-04-19 19:52:56,693 [INFO] 172.20.192.1 - - [19/Apr/2025 19:52:56] "GET / HTTP/1.1" 200 -
+2025-04-19 19:52:56,727 [INFO] 172.20.192.1 - - [19/Apr/2025 19:52:56] "GET /video_feed HTTP/1.1" 200 -
+2025-04-19 19:52:56,884 [INFO] 172.20.192.1 - - [19/Apr/2025 19:52:56] "GET /api/config HTTP/1.1" 200 -
+2025-04-19 19:53:00,640 [ERROR] 视频流错误: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2025-04-19 19:53:27,382 [INFO] 172.20.192.1 - - [19/Apr/2025 19:53:27] "GET / HTTP/1.1" 200 -
+2025-04-19 19:53:27,406 [INFO] 172.20.192.1 - - [19/Apr/2025 19:53:27] "GET /video_feed HTTP/1.1" 200 -
+2025-04-19 19:53:27,488 [INFO] 172.20.192.1 - - [19/Apr/2025 19:53:27] "GET /api/config HTTP/1.1" 200 -
+2025-04-19 19:53:31,841 [ERROR] 视频流错误: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2025-04-19 19:55:32,208 [INFO] 172.20.192.1 - - [19/Apr/2025 19:55:32] "GET / HTTP/1.1" 200 -
+2025-04-19 19:55:32,239 [INFO] 172.20.192.1 - - [19/Apr/2025 19:55:32] "GET /video_feed HTTP/1.1" 200 -
+2025-04-19 19:55:32,370 [INFO] 172.20.192.1 - - [19/Apr/2025 19:55:32] "GET /api/config HTTP/1.1" 200 -
+2025-04-19 19:55:37,623 [ERROR] 视频流错误: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2025-04-19 19:56:41,152 [INFO] 172.20.192.1 - - [19/Apr/2025 19:56:41] "GET / HTTP/1.1" 200 -
+2025-04-19 19:56:41,177 [INFO] 172.20.192.1 - - [19/Apr/2025 19:56:41] "GET /video_feed HTTP/1.1" 200 -
+2025-04-19 19:56:41,244 [INFO] 172.20.192.1 - - [19/Apr/2025 19:56:41] "GET /api/config HTTP/1.1" 200 -
+2025-04-19 19:56:45,530 [ERROR] 视频流错误: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2025-04-19 20:01:18,071 [INFO] 172.20.192.1 - - [19/Apr/2025 20:01:18] "GET / HTTP/1.1" 200 -
+2025-04-19 20:01:18,097 [INFO] 172.20.192.1 - - [19/Apr/2025 20:01:18] "GET /video_feed HTTP/1.1" 200 -
+2025-04-19 20:01:18,285 [INFO] 172.20.192.1 - - [19/Apr/2025 20:01:18] "GET /api/config HTTP/1.1" 200 -
+2025-04-19 20:01:22,694 [ERROR] 视频流错误: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2025-04-19 20:02:03,717 [INFO] 172.20.192.1 - - [19/Apr/2025 20:02:03] "GET / HTTP/1.1" 200 -
+2025-04-19 20:02:03,740 [INFO] 172.20.192.1 - - [19/Apr/2025 20:02:03] "GET /video_feed HTTP/1.1" 200 -
+2025-04-19 20:02:03,828 [INFO] 172.20.192.1 - - [19/Apr/2025 20:02:03] "GET /api/config HTTP/1.1" 200 -
+2025-04-19 20:02:08,448 [ERROR] 视频流错误: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2025-04-19 20:08:02,102 [INFO] 172.20.192.1 - - [19/Apr/2025 20:08:02] "GET / HTTP/1.1" 200 -
+2025-04-19 20:08:02,127 [INFO] 172.20.192.1 - - [19/Apr/2025 20:08:02] "GET /video_feed HTTP/1.1" 200 -
+2025-04-19 20:08:02,292 [INFO] 172.20.192.1 - - [19/Apr/2025 20:08:02] "GET /api/config HTTP/1.1" 200 -
+2025-04-19 20:08:07,677 [ERROR] 视频流错误: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2025-04-19 20:21:56,330 [INFO] 172.20.192.1 - - [19/Apr/2025 20:21:56] "GET / HTTP/1.1" 200 -
+2025-04-19 20:21:56,353 [INFO] 172.20.192.1 - - [19/Apr/2025 20:21:56] "GET /video_feed HTTP/1.1" 200 -
+2025-04-19 20:21:56,526 [INFO] 172.20.192.1 - - [19/Apr/2025 20:21:56] "GET /api/config HTTP/1.1" 200 -
+2025-04-19 20:22:14,964 [ERROR] 视频流错误: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2025-04-19 20:29:18,253 [INFO] 172.20.192.1 - - [19/Apr/2025 20:29:18] "GET / HTTP/1.1" 200 -
+2025-04-19 20:29:18,279 [INFO] 172.20.192.1 - - [19/Apr/2025 20:29:18] "GET /video_feed HTTP/1.1" 200 -
+2025-04-19 20:29:18,453 [INFO] 172.20.192.1 - - [19/Apr/2025 20:29:18] "GET /api/config HTTP/1.1" 200 -
+2025-04-19 20:29:25,851 [ERROR] 视频流错误: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2025-04-19 20:38:52,717 [INFO] 172.20.192.1 - - [19/Apr/2025 20:38:52] "GET / HTTP/1.1" 200 -
+2025-04-19 20:38:52,743 [INFO] 172.20.192.1 - - [19/Apr/2025 20:38:52] "GET /video_feed HTTP/1.1" 200 -
+2025-04-19 20:38:52,927 [INFO] 172.20.192.1 - - [19/Apr/2025 20:38:52] "GET /api/config HTTP/1.1" 200 -
+2025-04-19 20:39:03,999 [ERROR] 视频流错误: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2025-04-19 20:39:06,795 [INFO] 172.20.192.1 - - [19/Apr/2025 20:39:06] "GET / HTTP/1.1" 200 -
+2025-04-19 20:39:06,817 [INFO] 172.20.192.1 - - [19/Apr/2025 20:39:06] "GET /video_feed HTTP/1.1" 200 -
+2025-04-19 20:39:06,884 [INFO] 172.20.192.1 - - [19/Apr/2025 20:39:06] "GET /api/config HTTP/1.1" 200 -
+2025-04-19 20:39:15,374 [ERROR] 视频流错误: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2025-04-19 20:42:00,819 [INFO] 172.20.192.1 - - [19/Apr/2025 20:42:00] "GET / HTTP/1.1" 200 -
+2025-04-19 20:42:00,845 [INFO] 172.20.192.1 - - [19/Apr/2025 20:42:00] "GET /video_feed HTTP/1.1" 200 -
+2025-04-19 20:42:00,995 [INFO] 172.20.192.1 - - [19/Apr/2025 20:42:00] "GET /api/config HTTP/1.1" 200 -
+2025-04-19 20:42:23,262 [ERROR] 视频流错误: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2025-04-19 20:43:01,235 [INFO] 172.20.192.1 - - [19/Apr/2025 20:43:01] "GET / HTTP/1.1" 200 -
+2025-04-19 20:43:01,258 [INFO] 172.20.192.1 - - [19/Apr/2025 20:43:01] "GET /video_feed HTTP/1.1" 200 -
+2025-04-19 20:43:01,336 [INFO] 172.20.192.1 - - [19/Apr/2025 20:43:01] "GET /api/config HTTP/1.1" 200 -
+2025-04-19 20:43:19,276 [ERROR] 视频流错误: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2025-04-19 20:50:26,898 [INFO] 172.20.192.1 - - [19/Apr/2025 20:50:26] "GET / HTTP/1.1" 200 -
+2025-04-19 20:50:26,924 [INFO] 172.20.192.1 - - [19/Apr/2025 20:50:26] "GET /video_feed HTTP/1.1" 200 -
+2025-04-19 20:50:27,084 [INFO] 172.20.192.1 - - [19/Apr/2025 20:50:27] "GET /api/config HTTP/1.1" 200 -
+2025-04-19 20:50:42,754 [ERROR] 视频流错误: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2025-04-19 20:52:01,191 [INFO] 172.20.192.1 - - [19/Apr/2025 20:52:01] "GET / HTTP/1.1" 200 -
+2025-04-19 20:52:01,216 [INFO] 172.20.192.1 - - [19/Apr/2025 20:52:01] "GET /video_feed HTTP/1.1" 200 -
+2025-04-19 20:52:01,311 [INFO] 172.20.192.1 - - [19/Apr/2025 20:52:01] "GET /api/config HTTP/1.1" 200 -
+2025-04-19 20:52:19,121 [ERROR] 视频流错误: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2025-04-19 20:53:02,429 [INFO] 172.20.192.1 - - [19/Apr/2025 20:53:02] "GET / HTTP/1.1" 200 -
+2025-04-19 20:53:02,456 [INFO] 172.20.192.1 - - [19/Apr/2025 20:53:02] "GET /video_feed HTTP/1.1" 200 -
+2025-04-19 20:53:02,532 [INFO] 172.20.192.1 - - [19/Apr/2025 20:53:02] "GET /api/config HTTP/1.1" 200 -
+2025-04-19 20:53:17,426 [ERROR] 视频流错误: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2025-04-19 20:54:34,925 [INFO] 172.20.192.1 - - [19/Apr/2025 20:54:34] "GET / HTTP/1.1" 200 -
+2025-04-19 20:54:34,951 [INFO] 172.20.192.1 - - [19/Apr/2025 20:54:34] "GET /video_feed HTTP/1.1" 200 -
+2025-04-19 20:54:35,023 [INFO] 172.20.192.1 - - [19/Apr/2025 20:54:35] "GET /api/config HTTP/1.1" 200 -
+2025-04-19 20:54:39,488 [ERROR] 视频流错误: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2025-04-19 20:56:00,634 [INFO] 172.20.192.1 - - [19/Apr/2025 20:56:00] "GET / HTTP/1.1" 200 -
+2025-04-19 20:56:00,658 [INFO] 172.20.192.1 - - [19/Apr/2025 20:56:00] "GET /video_feed HTTP/1.1" 200 -
+2025-04-19 20:56:00,728 [INFO] 172.20.192.1 - - [19/Apr/2025 20:56:00] "GET /api/config HTTP/1.1" 200 -
+2025-04-19 20:56:05,180 [ERROR] 视频流错误: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2025-04-19 20:58:55,627 [INFO] 172.20.192.1 - - [19/Apr/2025 20:58:55] "GET / HTTP/1.1" 200 -
+2025-04-19 20:58:55,656 [INFO] 172.20.192.1 - - [19/Apr/2025 20:58:55] "GET /video_feed HTTP/1.1" 200 -
+2025-04-19 20:58:55,800 [INFO] 172.20.192.1 - - [19/Apr/2025 20:58:55] "GET /api/config HTTP/1.1" 200 -
+2025-04-19 20:58:55,846 [INFO] 172.20.192.1 - - [19/Apr/2025 20:58:55] "GET / HTTP/1.1" 200 -
+2025-04-19 20:58:55,891 [INFO] 172.20.192.1 - - [19/Apr/2025 20:58:55] "GET /video_feed HTTP/1.1" 200 -
+2025-04-19 20:58:55,959 [INFO] 172.20.192.1 - - [19/Apr/2025 20:58:55] "GET /api/config HTTP/1.1" 200 -
+2025-04-19 20:59:22,918 [ERROR] 视频流错误: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2025-04-19 21:01:15,610 [INFO] 172.20.192.1 - - [19/Apr/2025 21:01:15] "GET / HTTP/1.1" 200 -
+2025-04-19 21:01:15,631 [INFO] 172.20.192.1 - - [19/Apr/2025 21:01:15] "GET /video_feed HTTP/1.1" 200 -
+2025-04-19 21:01:15,715 [INFO] 172.20.192.1 - - [19/Apr/2025 21:01:15] "GET /api/config HTTP/1.1" 200 -
+2025-04-19 21:01:21,088 [ERROR] 视频流错误: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2025-04-19 21:02:57,311 [INFO] 172.20.192.1 - - [19/Apr/2025 21:02:57] "GET / HTTP/1.1" 200 -
+2025-04-19 21:02:57,337 [INFO] 172.20.192.1 - - [19/Apr/2025 21:02:57] "GET /video_feed HTTP/1.1" 200 -
+2025-04-19 21:02:57,391 [INFO] 172.20.192.1 - - [19/Apr/2025 21:02:57] "GET /api/config HTTP/1.1" 200 -
+2025-04-19 21:03:04,666 [ERROR] 视频流错误: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2025-04-19 21:04:02,343 [INFO] 172.20.192.1 - - [19/Apr/2025 21:04:02] "GET / HTTP/1.1" 200 -
+2025-04-19 21:04:02,365 [INFO] 172.20.192.1 - - [19/Apr/2025 21:04:02] "GET /video_feed HTTP/1.1" 200 -
+2025-04-19 21:04:02,441 [INFO] 172.20.192.1 - - [19/Apr/2025 21:04:02] "GET /api/config HTTP/1.1" 200 -
+2025-04-19 21:04:07,386 [ERROR] 视频流错误: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2025-04-19 21:05:46,628 [INFO] 172.20.192.1 - - [19/Apr/2025 21:05:46] "GET / HTTP/1.1" 200 -
+2025-04-19 21:05:46,655 [INFO] 172.20.192.1 - - [19/Apr/2025 21:05:46] "GET /video_feed HTTP/1.1" 200 -
+2025-04-19 21:05:46,724 [INFO] 172.20.192.1 - - [19/Apr/2025 21:05:46] "GET /api/config HTTP/1.1" 200 -
+2025-04-19 21:05:56,372 [ERROR] 视频流错误: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2025-04-19 21:06:06,618 [INFO] 172.20.192.1 - - [19/Apr/2025 21:06:06] "GET / HTTP/1.1" 200 -
+2025-04-19 21:06:06,645 [INFO] 172.20.192.1 - - [19/Apr/2025 21:06:06] "GET /video_feed HTTP/1.1" 200 -
+2025-04-19 21:06:06,724 [INFO] 172.20.192.1 - - [19/Apr/2025 21:06:06] "GET /api/config HTTP/1.1" 200 -
+2025-04-19 21:06:10,953 [ERROR] 视频流错误: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2025-04-19 21:10:32,091 [INFO] 172.20.192.1 - - [19/Apr/2025 21:10:32] "GET / HTTP/1.1" 200 -
+2025-04-19 21:10:32,115 [INFO] 172.20.192.1 - - [19/Apr/2025 21:10:32] "GET /video_feed HTTP/1.1" 200 -
+2025-04-19 21:10:32,259 [INFO] 172.20.192.1 - - [19/Apr/2025 21:10:32] "GET /api/config HTTP/1.1" 200 -
+2025-04-19 21:10:41,379 [ERROR] 视频流错误: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2025-04-19 21:12:55,920 [INFO] 172.20.192.1 - - [19/Apr/2025 21:12:55] "GET / HTTP/1.1" 200 -
+2025-04-19 21:12:55,944 [INFO] 172.20.192.1 - - [19/Apr/2025 21:12:55] "GET /video_feed HTTP/1.1" 200 -
+2025-04-19 21:12:56,023 [INFO] 172.20.192.1 - - [19/Apr/2025 21:12:56] "GET /api/config HTTP/1.1" 200 -
+2025-04-19 21:13:22,162 [ERROR] 视频流错误: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2025-05-03 17:58:44,777 [INFO] find ip:None
+2025-05-03 17:58:44,779 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://172.20.195.39:8080
+2025-05-03 17:58:44,780 [INFO] [33mPress CTRL+C to quit[0m
+2025-05-03 17:59:04,935 [INFO] 172.20.192.1 - - [03/May/2025 17:59:04] "GET / HTTP/1.1" 200 -
+2025-05-03 17:59:04,948 [ERROR] 视频流错误: HTTPConnectionPool(host='127.0.0.1', port=8081): Max retries exceeded with url: /stream (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f63442e3b80>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2025-05-03 17:59:04,948 [INFO] 172.20.192.1 - - [03/May/2025 17:59:04] "GET /video_feed HTTP/1.1" 200 -
+2025-05-03 17:59:06,000 [INFO] 172.20.192.1 - - [03/May/2025 17:59:06] "GET /api/config HTTP/1.1" 200 -
+2025-05-03 17:59:06,045 [INFO] 172.20.192.1 - - [03/May/2025 17:59:06] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-05-03 18:01:18,404 [INFO] 172.20.192.1 - - [03/May/2025 18:01:18] "GET / HTTP/1.1" 200 -
+2025-05-03 18:01:18,427 [INFO] 172.20.192.1 - - [03/May/2025 18:01:18] "GET /video_feed HTTP/1.1" 200 -
+2025-05-03 18:01:18,557 [INFO] 172.20.192.1 - - [03/May/2025 18:01:18] "GET /api/config HTTP/1.1" 200 -
+2025-05-03 18:01:51,710 [ERROR] 视频流错误: HTTPConnectionPool(host='127.0.0.1', port=8081): Read timed out.
+2025-05-03 18:16:03,948 [INFO] 172.20.192.1 - - [03/May/2025 18:16:03] "GET / HTTP/1.1" 200 -
+2025-05-03 18:16:03,972 [INFO] 172.20.192.1 - - [03/May/2025 18:16:03] "GET /video_feed HTTP/1.1" 200 -
+2025-05-03 18:16:04,085 [INFO] 172.20.192.1 - - [03/May/2025 18:16:04] "GET /api/config HTTP/1.1" 200 -
+2025-05-03 18:16:29,953 [ERROR] 视频流错误: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2025-05-03 18:19:16,342 [INFO] 172.20.192.1 - - [03/May/2025 18:19:16] "GET / HTTP/1.1" 200 -
+2025-05-03 18:19:16,368 [INFO] 172.20.192.1 - - [03/May/2025 18:19:16] "GET /video_feed HTTP/1.1" 200 -
+2025-05-03 18:19:16,504 [INFO] 172.20.192.1 - - [03/May/2025 18:19:16] "GET /api/config HTTP/1.1" 200 -
+2025-05-03 18:19:44,000 [ERROR] 视频流错误: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2025-05-03 18:21:13,094 [INFO] 172.20.192.1 - - [03/May/2025 18:21:13] "GET / HTTP/1.1" 200 -
+2025-05-03 18:21:13,114 [INFO] 172.20.192.1 - - [03/May/2025 18:21:13] "GET /video_feed HTTP/1.1" 200 -
+2025-05-03 18:21:13,246 [INFO] 172.20.192.1 - - [03/May/2025 18:21:13] "GET /api/config HTTP/1.1" 200 -
+2025-05-03 18:21:40,216 [ERROR] 视频流错误: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2025-05-03 19:19:31,516 [INFO] 172.20.192.1 - - [03/May/2025 19:19:31] "GET / HTTP/1.1" 200 -
+2025-05-03 19:19:31,539 [INFO] 172.20.192.1 - - [03/May/2025 19:19:31] "GET /video_feed HTTP/1.1" 200 -
+2025-05-03 19:19:31,632 [INFO] 172.20.192.1 - - [03/May/2025 19:19:31] "GET /api/config HTTP/1.1" 200 -
+2025-05-03 19:19:58,315 [ERROR] 视频流错误: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2025-05-03 19:21:55,419 [INFO] 172.20.192.1 - - [03/May/2025 19:21:55] "GET / HTTP/1.1" 200 -
+2025-05-03 19:21:55,440 [INFO] 172.20.192.1 - - [03/May/2025 19:21:55] "GET /video_feed HTTP/1.1" 200 -
+2025-05-03 19:21:55,553 [INFO] 172.20.192.1 - - [03/May/2025 19:21:55] "GET /api/config HTTP/1.1" 200 -
+2025-05-03 19:22:22,983 [ERROR] 视频流错误: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2025-05-03 19:24:34,381 [INFO] 172.20.192.1 - - [03/May/2025 19:24:34] "GET / HTTP/1.1" 200 -
+2025-05-03 19:24:34,424 [INFO] 172.20.192.1 - - [03/May/2025 19:24:34] "GET /video_feed HTTP/1.1" 200 -
+2025-05-03 19:24:34,470 [INFO] 172.20.192.1 - - [03/May/2025 19:24:34] "GET /api/config HTTP/1.1" 200 -
+2025-05-03 19:25:01,267 [ERROR] 视频流错误: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2025-05-03 20:14:22,890 [INFO] 172.20.192.1 - - [03/May/2025 20:14:22] "GET / HTTP/1.1" 200 -
+2025-05-03 20:14:22,926 [INFO] 172.20.192.1 - - [03/May/2025 20:14:22] "GET /video_feed HTTP/1.1" 200 -
+2025-05-03 20:14:23,045 [INFO] 172.20.192.1 - - [03/May/2025 20:14:23] "GET /api/config HTTP/1.1" 200 -
+2025-05-03 20:14:47,679 [ERROR] 视频流错误: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2025-05-03 20:19:45,211 [INFO] 172.20.192.1 - - [03/May/2025 20:19:45] "GET / HTTP/1.1" 200 -
+2025-05-03 20:19:45,242 [INFO] 172.20.192.1 - - [03/May/2025 20:19:45] "GET /video_feed HTTP/1.1" 200 -
+2025-05-03 20:19:45,389 [INFO] 172.20.192.1 - - [03/May/2025 20:19:45] "GET /api/config HTTP/1.1" 200 -
+2025-05-03 20:20:12,734 [ERROR] 视频流错误: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2025-05-03 20:21:11,704 [INFO] 172.20.192.1 - - [03/May/2025 20:21:11] "GET / HTTP/1.1" 200 -
+2025-05-03 20:21:11,773 [INFO] 172.20.192.1 - - [03/May/2025 20:21:11] "GET /api/config HTTP/1.1" 200 -
+2025-05-03 20:21:12,085 [INFO] 172.20.192.1 - - [03/May/2025 20:21:12] "GET /video_feed HTTP/1.1" 200 -
+2025-05-03 20:21:38,848 [ERROR] 视频流错误: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2025-05-03 20:24:59,930 [INFO] 172.20.192.1 - - [03/May/2025 20:24:59] "GET / HTTP/1.1" 200 -
+2025-05-03 20:24:59,955 [INFO] 172.20.192.1 - - [03/May/2025 20:24:59] "GET /video_feed HTTP/1.1" 200 -
+2025-05-03 20:25:00,015 [INFO] 172.20.192.1 - - [03/May/2025 20:25:00] "GET /api/config HTTP/1.1" 200 -
+2025-05-03 20:26:39,957 [ERROR] 视频流错误: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2025-05-03 20:27:33,034 [INFO] 172.20.192.1 - - [03/May/2025 20:27:33] "GET / HTTP/1.1" 200 -
+2025-05-03 20:27:33,059 [INFO] 172.20.192.1 - - [03/May/2025 20:27:33] "GET /video_feed HTTP/1.1" 200 -
+2025-05-03 20:27:33,170 [INFO] 172.20.192.1 - - [03/May/2025 20:27:33] "GET /api/config HTTP/1.1" 200 -
+2025-05-03 20:28:03,615 [ERROR] 视频流错误: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2025-05-03 20:33:06,093 [INFO] 172.20.192.1 - - [03/May/2025 20:33:06] "GET / HTTP/1.1" 200 -
+2025-05-03 20:33:06,165 [INFO] 172.20.192.1 - - [03/May/2025 20:33:06] "GET /api/config HTTP/1.1" 200 -
+2025-05-03 20:33:06,512 [INFO] 172.20.192.1 - - [03/May/2025 20:33:06] "GET /video_feed HTTP/1.1" 200 -
+2025-05-03 20:37:14,872 [ERROR] 视频流错误: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2025-05-03 20:39:36,650 [INFO] 172.20.192.1 - - [03/May/2025 20:39:36] "GET / HTTP/1.1" 200 -
+2025-05-03 20:39:36,669 [INFO] 172.20.192.1 - - [03/May/2025 20:39:36] "GET /video_feed HTTP/1.1" 200 -
+2025-05-03 20:39:36,745 [INFO] 172.20.192.1 - - [03/May/2025 20:39:36] "GET /api/config HTTP/1.1" 200 -
+2025-05-03 20:39:41,830 [ERROR] 视频流错误: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2025-05-03 20:42:23,178 [INFO] 172.20.192.1 - - [03/May/2025 20:42:23] "GET / HTTP/1.1" 200 -
+2025-05-03 20:42:23,196 [INFO] 172.20.192.1 - - [03/May/2025 20:42:23] "GET /video_feed HTTP/1.1" 200 -
+2025-05-03 20:42:23,275 [INFO] 172.20.192.1 - - [03/May/2025 20:42:23] "GET /api/config HTTP/1.1" 200 -
+2025-05-03 20:42:28,872 [ERROR] 视频流错误: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2025-05-03 21:02:19,672 [INFO] 172.20.192.1 - - [03/May/2025 21:02:19] "GET / HTTP/1.1" 200 -
+2025-05-03 21:02:19,692 [INFO] 172.20.192.1 - - [03/May/2025 21:02:19] "GET /video_feed HTTP/1.1" 200 -
+2025-05-03 21:02:19,771 [INFO] 172.20.192.1 - - [03/May/2025 21:02:19] "GET /api/config HTTP/1.1" 200 -
+2025-05-03 21:02:24,792 [INFO] 172.20.192.1 - - [03/May/2025 21:02:24] "GET / HTTP/1.1" 200 -
+2025-05-03 21:02:24,995 [INFO] 172.20.192.1 - - [03/May/2025 21:02:24] "GET /api/config HTTP/1.1" 200 -
+2025-05-03 21:02:29,586 [ERROR] 视频流错误: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2025-05-03 21:02:29,586 [ERROR] 视频流错误: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2025-05-03 21:02:29,586 [INFO] 172.20.192.1 - - [03/May/2025 21:02:29] "GET /video_feed HTTP/1.1" 200 -
+2025-05-03 21:03:43,029 [INFO] 172.20.192.1 - - [03/May/2025 21:03:43] "GET / HTTP/1.1" 200 -
+2025-05-03 21:03:43,048 [INFO] 172.20.192.1 - - [03/May/2025 21:03:43] "GET /video_feed HTTP/1.1" 200 -
+2025-05-03 21:03:43,092 [INFO] 172.20.192.1 - - [03/May/2025 21:03:43] "GET /api/config HTTP/1.1" 200 -
+2025-05-03 21:03:45,362 [ERROR] 视频流错误: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2025-05-03 21:05:00,398 [INFO] 172.20.192.1 - - [03/May/2025 21:05:00] "GET / HTTP/1.1" 200 -
+2025-05-03 21:05:00,420 [INFO] 172.20.192.1 - - [03/May/2025 21:05:00] "GET /video_feed HTTP/1.1" 200 -
+2025-05-03 21:05:00,512 [INFO] 172.20.192.1 - - [03/May/2025 21:05:00] "GET /api/config HTTP/1.1" 200 -
+2025-05-03 21:05:13,939 [ERROR] 视频流错误: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2025-05-03 21:06:22,026 [INFO] 172.20.192.1 - - [03/May/2025 21:06:22] "GET / HTTP/1.1" 200 -
+2025-05-03 21:06:22,043 [INFO] 172.20.192.1 - - [03/May/2025 21:06:22] "GET /video_feed HTTP/1.1" 200 -
+2025-05-03 21:06:22,142 [INFO] 172.20.192.1 - - [03/May/2025 21:06:22] "GET /api/config HTTP/1.1" 200 -
+2025-05-03 21:06:26,980 [ERROR] 视频流错误: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2025-05-03 21:07:37,365 [INFO] 172.20.192.1 - - [03/May/2025 21:07:37] "GET / HTTP/1.1" 200 -
+2025-05-03 21:07:37,385 [INFO] 172.20.192.1 - - [03/May/2025 21:07:37] "GET /video_feed HTTP/1.1" 200 -
+2025-05-03 21:07:37,457 [INFO] 172.20.192.1 - - [03/May/2025 21:07:37] "GET /api/config HTTP/1.1" 200 -
+2025-05-03 21:07:46,458 [ERROR] 视频流错误: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2025-05-03 21:09:15,987 [INFO] 172.20.192.1 - - [03/May/2025 21:09:15] "GET / HTTP/1.1" 200 -
+2025-05-03 21:09:16,009 [INFO] 172.20.192.1 - - [03/May/2025 21:09:16] "GET /video_feed HTTP/1.1" 200 -
+2025-05-03 21:09:16,052 [INFO] 172.20.192.1 - - [03/May/2025 21:09:16] "GET /api/config HTTP/1.1" 200 -
+2025-05-03 21:09:19,770 [ERROR] 视频流错误: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2025-05-03 21:11:06,245 [INFO] 172.20.192.1 - - [03/May/2025 21:11:06] "GET / HTTP/1.1" 200 -
+2025-05-03 21:11:06,265 [INFO] 172.20.192.1 - - [03/May/2025 21:11:06] "GET /video_feed HTTP/1.1" 200 -
+2025-05-03 21:11:06,373 [INFO] 172.20.192.1 - - [03/May/2025 21:11:06] "GET /api/config HTTP/1.1" 200 -
+2025-05-03 21:11:13,822 [ERROR] 视频流错误: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2025-05-03 21:13:42,194 [INFO] 172.20.192.1 - - [03/May/2025 21:13:42] "GET / HTTP/1.1" 200 -
+2025-05-03 21:13:42,218 [INFO] 172.20.192.1 - - [03/May/2025 21:13:42] "GET /video_feed HTTP/1.1" 200 -
+2025-05-03 21:13:42,328 [INFO] 172.20.192.1 - - [03/May/2025 21:13:42] "GET /api/config HTTP/1.1" 200 -
+2025-05-03 21:13:54,801 [ERROR] 视频流错误: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2025-05-03 21:27:07,844 [INFO] 172.20.192.1 - - [03/May/2025 21:27:07] "GET / HTTP/1.1" 200 -
+2025-05-03 21:27:07,866 [INFO] 172.20.192.1 - - [03/May/2025 21:27:07] "GET /video_feed HTTP/1.1" 200 -
+2025-05-03 21:27:07,956 [INFO] 172.20.192.1 - - [03/May/2025 21:27:07] "GET /api/config HTTP/1.1" 200 -
+2025-05-03 21:27:13,321 [ERROR] 视频流错误: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2025-05-03 21:31:08,232 [INFO] 172.20.192.1 - - [03/May/2025 21:31:08] "GET / HTTP/1.1" 200 -
+2025-05-03 21:31:08,256 [INFO] 172.20.192.1 - - [03/May/2025 21:31:08] "GET /video_feed HTTP/1.1" 200 -
+2025-05-03 21:31:08,347 [INFO] 172.20.192.1 - - [03/May/2025 21:31:08] "GET /api/config HTTP/1.1" 200 -
+2025-05-03 21:31:23,061 [ERROR] 视频流错误: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2025-05-03 21:35:08,286 [INFO] 172.20.192.1 - - [03/May/2025 21:35:08] "GET / HTTP/1.1" 200 -
+2025-05-03 21:35:08,318 [INFO] 172.20.192.1 - - [03/May/2025 21:35:08] "GET /video_feed HTTP/1.1" 200 -
+2025-05-03 21:35:08,424 [INFO] 172.20.192.1 - - [03/May/2025 21:35:08] "GET /api/config HTTP/1.1" 200 -
+2025-05-03 21:35:15,370 [ERROR] 视频流错误: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2025-05-03 21:36:54,287 [INFO] 172.20.192.1 - - [03/May/2025 21:36:54] "GET / HTTP/1.1" 200 -
+2025-05-03 21:36:54,309 [INFO] 172.20.192.1 - - [03/May/2025 21:36:54] "GET /video_feed HTTP/1.1" 200 -
+2025-05-03 21:36:54,422 [INFO] 172.20.192.1 - - [03/May/2025 21:36:54] "GET /api/config HTTP/1.1" 200 -
+2025-05-03 21:37:11,765 [ERROR] 视频流错误: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2025-05-03 21:39:14,273 [INFO] 172.20.192.1 - - [03/May/2025 21:39:14] "GET / HTTP/1.1" 200 -
+2025-05-03 21:39:14,293 [INFO] 172.20.192.1 - - [03/May/2025 21:39:14] "GET /video_feed HTTP/1.1" 200 -
+2025-05-03 21:39:14,354 [INFO] 172.20.192.1 - - [03/May/2025 21:39:14] "GET /api/config HTTP/1.1" 200 -
+2025-05-03 21:39:16,115 [INFO] 172.20.192.1 - - [03/May/2025 21:39:16] "GET / HTTP/1.1" 200 -
+2025-05-03 21:39:16,137 [INFO] 172.20.192.1 - - [03/May/2025 21:39:16] "GET /video_feed HTTP/1.1" 200 -
+2025-05-03 21:39:16,177 [INFO] 172.20.192.1 - - [03/May/2025 21:39:16] "GET /api/config HTTP/1.1" 200 -
+2025-05-03 21:39:20,614 [ERROR] 视频流错误: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2025-05-03 21:39:38,214 [INFO] 172.20.192.1 - - [03/May/2025 21:39:38] "GET / HTTP/1.1" 200 -
+2025-05-03 21:39:38,228 [INFO] 172.20.192.1 - - [03/May/2025 21:39:38] "GET /video_feed HTTP/1.1" 200 -
+2025-05-03 21:39:38,294 [INFO] 172.20.192.1 - - [03/May/2025 21:39:38] "GET /api/config HTTP/1.1" 200 -
+2025-05-03 21:40:25,205 [ERROR] 视频流错误: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2025-05-03 21:42:51,213 [INFO] 172.20.192.1 - - [03/May/2025 21:42:51] "GET / HTTP/1.1" 200 -
+2025-05-03 21:42:51,230 [INFO] 172.20.192.1 - - [03/May/2025 21:42:51] "GET /video_feed HTTP/1.1" 200 -
+2025-05-03 21:42:51,293 [INFO] 172.20.192.1 - - [03/May/2025 21:42:51] "GET /api/config HTTP/1.1" 200 -
+2025-05-03 21:43:22,619 [ERROR] 视频流错误: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2025-05-03 21:50:37,507 [INFO] 172.20.192.1 - - [03/May/2025 21:50:37] "GET / HTTP/1.1" 200 -
+2025-05-03 21:50:37,526 [INFO] 172.20.192.1 - - [03/May/2025 21:50:37] "GET /video_feed HTTP/1.1" 200 -
+2025-05-03 21:50:37,599 [INFO] 172.20.192.1 - - [03/May/2025 21:50:37] "GET /api/config HTTP/1.1" 200 -
+2025-05-03 21:50:48,521 [ERROR] 视频流错误: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2025-05-03 21:51:06,261 [INFO] 172.20.192.1 - - [03/May/2025 21:51:06] "GET / HTTP/1.1" 200 -
+2025-05-03 21:51:06,280 [INFO] 172.20.192.1 - - [03/May/2025 21:51:06] "GET /video_feed HTTP/1.1" 200 -
+2025-05-03 21:51:06,349 [INFO] 172.20.192.1 - - [03/May/2025 21:51:06] "GET /api/config HTTP/1.1" 200 -
+2025-05-03 21:51:19,816 [ERROR] 视频流错误: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2025-05-03 21:51:49,886 [INFO] 172.20.192.1 - - [03/May/2025 21:51:49] "GET / HTTP/1.1" 200 -
+2025-05-03 21:51:49,902 [INFO] 172.20.192.1 - - [03/May/2025 21:51:49] "GET /video_feed HTTP/1.1" 200 -
+2025-05-03 21:51:49,953 [INFO] 172.20.192.1 - - [03/May/2025 21:51:49] "GET /api/config HTTP/1.1" 200 -
+2025-05-03 21:52:04,609 [ERROR] 视频流错误: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2025-05-03 21:56:07,263 [INFO] 172.20.192.1 - - [03/May/2025 21:56:07] "GET / HTTP/1.1" 200 -
+2025-05-03 21:56:07,284 [INFO] 172.20.192.1 - - [03/May/2025 21:56:07] "GET /video_feed HTTP/1.1" 200 -
+2025-05-03 21:56:07,368 [INFO] 172.20.192.1 - - [03/May/2025 21:56:07] "GET /api/config HTTP/1.1" 200 -
+2025-05-03 21:56:17,800 [ERROR] 视频流错误: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2025-05-03 22:06:49,492 [INFO] 172.20.192.1 - - [03/May/2025 22:06:49] "GET / HTTP/1.1" 200 -
+2025-05-03 22:06:49,519 [INFO] 172.20.192.1 - - [03/May/2025 22:06:49] "GET /video_feed HTTP/1.1" 200 -
+2025-05-03 22:06:49,584 [INFO] 172.20.192.1 - - [03/May/2025 22:06:49] "GET /api/config HTTP/1.1" 200 -
+2025-05-03 22:07:06,826 [ERROR] 视频流错误: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2025-05-03 22:08:33,667 [INFO] 172.20.192.1 - - [03/May/2025 22:08:33] "GET / HTTP/1.1" 200 -
+2025-05-03 22:08:33,685 [INFO] 172.20.192.1 - - [03/May/2025 22:08:33] "GET /video_feed HTTP/1.1" 200 -
+2025-05-03 22:08:33,770 [INFO] 172.20.192.1 - - [03/May/2025 22:08:33] "GET /api/config HTTP/1.1" 200 -
+2025-05-03 22:08:40,002 [ERROR] 视频流错误: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2025-05-03 22:09:00,949 [INFO] 172.20.192.1 - - [03/May/2025 22:09:00] "GET / HTTP/1.1" 200 -
+2025-05-03 22:09:00,978 [INFO] 172.20.192.1 - - [03/May/2025 22:09:00] "GET /video_feed HTTP/1.1" 200 -
+2025-05-03 22:09:01,081 [INFO] 172.20.192.1 - - [03/May/2025 22:09:01] "GET /api/config HTTP/1.1" 200 -
+2025-05-03 22:09:08,345 [ERROR] 视频流错误: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2025-05-03 22:09:15,534 [INFO] 172.20.192.1 - - [03/May/2025 22:09:15] "GET / HTTP/1.1" 200 -
+2025-05-03 22:09:15,552 [INFO] 172.20.192.1 - - [03/May/2025 22:09:15] "GET /video_feed HTTP/1.1" 200 -
+2025-05-03 22:09:15,599 [INFO] 172.20.192.1 - - [03/May/2025 22:09:15] "GET /api/config HTTP/1.1" 200 -
+2025-05-03 22:09:21,434 [ERROR] 视频流错误: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2025-05-03 22:11:44,201 [INFO] 172.20.192.1 - - [03/May/2025 22:11:44] "GET / HTTP/1.1" 200 -
+2025-05-03 22:11:44,219 [INFO] 172.20.192.1 - - [03/May/2025 22:11:44] "GET /video_feed HTTP/1.1" 200 -
+2025-05-03 22:11:44,279 [INFO] 172.20.192.1 - - [03/May/2025 22:11:44] "GET /api/config HTTP/1.1" 200 -
+2025-05-03 22:11:46,633 [ERROR] 视频流错误: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2025-05-03 22:13:52,786 [INFO] 172.20.192.1 - - [03/May/2025 22:13:52] "GET / HTTP/1.1" 200 -
+2025-05-03 22:13:52,806 [INFO] 172.20.192.1 - - [03/May/2025 22:13:52] "GET /video_feed HTTP/1.1" 200 -
+2025-05-03 22:13:52,881 [INFO] 172.20.192.1 - - [03/May/2025 22:13:52] "GET /api/config HTTP/1.1" 200 -
+2025-05-03 22:13:58,334 [ERROR] 视频流错误: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2025-05-03 22:14:00,302 [INFO] 172.20.192.1 - - [03/May/2025 22:14:00] "GET / HTTP/1.1" 200 -
+2025-05-03 22:14:00,319 [INFO] 172.20.192.1 - - [03/May/2025 22:14:00] "GET /video_feed HTTP/1.1" 200 -
+2025-05-03 22:14:00,372 [INFO] 172.20.192.1 - - [03/May/2025 22:14:00] "GET /api/config HTTP/1.1" 200 -
+2025-05-03 22:14:05,204 [ERROR] 视频流错误: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2025-05-03 22:14:31,660 [INFO] 172.20.192.1 - - [03/May/2025 22:14:31] "GET / HTTP/1.1" 200 -
+2025-05-03 22:14:31,691 [INFO] 172.20.192.1 - - [03/May/2025 22:14:31] "GET /video_feed HTTP/1.1" 200 -
+2025-05-03 22:14:31,749 [INFO] 172.20.192.1 - - [03/May/2025 22:14:31] "GET /api/config HTTP/1.1" 200 -
+2025-05-03 22:14:35,828 [ERROR] 视频流错误: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2025-05-03 22:15:41,964 [INFO] 172.20.192.1 - - [03/May/2025 22:15:41] "GET / HTTP/1.1" 200 -
+2025-05-03 22:15:41,983 [INFO] 172.20.192.1 - - [03/May/2025 22:15:41] "GET /video_feed HTTP/1.1" 200 -
+2025-05-03 22:15:42,035 [INFO] 172.20.192.1 - - [03/May/2025 22:15:42] "GET /api/config HTTP/1.1" 200 -
+2025-05-03 22:15:48,215 [ERROR] 视频流错误: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2025-05-03 22:15:51,148 [INFO] 172.20.192.1 - - [03/May/2025 22:15:51] "GET / HTTP/1.1" 200 -
+2025-05-03 22:15:51,167 [INFO] 172.20.192.1 - - [03/May/2025 22:15:51] "GET /video_feed HTTP/1.1" 200 -
+2025-05-03 22:15:51,255 [INFO] 172.20.192.1 - - [03/May/2025 22:15:51] "GET /api/config HTTP/1.1" 200 -
+2025-05-03 22:16:01,701 [ERROR] 视频流错误: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2025-05-03 22:20:27,907 [INFO] 172.20.192.1 - - [03/May/2025 22:20:27] "GET / HTTP/1.1" 200 -
+2025-05-03 22:20:28,010 [INFO] 172.20.192.1 - - [03/May/2025 22:20:28] "GET /api/config HTTP/1.1" 200 -
+2025-05-03 22:20:28,927 [INFO] 172.20.192.1 - - [03/May/2025 22:20:28] "GET /video_feed HTTP/1.1" 200 -
+2025-05-03 22:20:35,199 [ERROR] 视频流错误: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2025-05-03 22:20:37,373 [INFO] 172.20.192.1 - - [03/May/2025 22:20:37] "GET / HTTP/1.1" 200 -
+2025-05-03 22:20:37,401 [INFO] 172.20.192.1 - - [03/May/2025 22:20:37] "GET /video_feed HTTP/1.1" 200 -
+2025-05-03 22:20:37,492 [INFO] 172.20.192.1 - - [03/May/2025 22:20:37] "GET /api/config HTTP/1.1" 200 -
+2025-05-03 22:20:42,680 [ERROR] 视频流错误: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2025-05-03 22:20:45,474 [INFO] 172.20.192.1 - - [03/May/2025 22:20:45] "GET / HTTP/1.1" 200 -
+2025-05-03 22:20:45,496 [INFO] 172.20.192.1 - - [03/May/2025 22:20:45] "GET /video_feed HTTP/1.1" 200 -
+2025-05-03 22:20:45,548 [INFO] 172.20.192.1 - - [03/May/2025 22:20:45] "GET /api/config HTTP/1.1" 200 -
+2025-05-03 22:20:53,407 [ERROR] 视频流错误: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2025-05-03 22:22:27,150 [INFO] 172.20.192.1 - - [03/May/2025 22:22:27] "GET / HTTP/1.1" 200 -
+2025-05-03 22:22:27,178 [INFO] 172.20.192.1 - - [03/May/2025 22:22:27] "GET /video_feed HTTP/1.1" 200 -
+2025-05-03 22:22:27,316 [INFO] 172.20.192.1 - - [03/May/2025 22:22:27] "GET /api/config HTTP/1.1" 200 -
+2025-05-03 22:22:29,795 [ERROR] 视频流错误: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2025-05-03 22:22:47,818 [INFO] 172.20.192.1 - - [03/May/2025 22:22:47] "GET / HTTP/1.1" 200 -
+2025-05-03 22:22:47,840 [INFO] 172.20.192.1 - - [03/May/2025 22:22:47] "GET /video_feed HTTP/1.1" 200 -
+2025-05-03 22:22:47,908 [INFO] 172.20.192.1 - - [03/May/2025 22:22:47] "GET /api/config HTTP/1.1" 200 -
+2025-05-03 22:23:17,752 [ERROR] 视频流错误: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2025-05-03 22:29:52,021 [INFO] 172.20.192.1 - - [03/May/2025 22:29:52] "GET / HTTP/1.1" 200 -
+2025-05-03 22:29:52,042 [INFO] 172.20.192.1 - - [03/May/2025 22:29:52] "GET /video_feed HTTP/1.1" 200 -
+2025-05-03 22:29:52,181 [INFO] 172.20.192.1 - - [03/May/2025 22:29:52] "GET /api/config HTTP/1.1" 200 -
+2025-05-03 22:29:56,131 [ERROR] 视频流错误: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2025-05-03 22:30:06,297 [INFO] 172.20.192.1 - - [03/May/2025 22:30:06] "GET / HTTP/1.1" 200 -
+2025-05-03 22:30:06,325 [INFO] 172.20.192.1 - - [03/May/2025 22:30:06] "GET /video_feed HTTP/1.1" 200 -
+2025-05-03 22:30:06,412 [INFO] 172.20.192.1 - - [03/May/2025 22:30:06] "GET /api/config HTTP/1.1" 200 -
+2025-05-03 22:30:33,410 [ERROR] 视频流错误: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2025-05-03 22:34:18,171 [INFO] 172.20.192.1 - - [03/May/2025 22:34:18] "GET / HTTP/1.1" 200 -
+2025-05-03 22:34:18,195 [INFO] 172.20.192.1 - - [03/May/2025 22:34:18] "GET /video_feed HTTP/1.1" 200 -
+2025-05-03 22:34:18,294 [INFO] 172.20.192.1 - - [03/May/2025 22:34:18] "GET /api/config HTTP/1.1" 200 -
+2025-05-03 22:34:45,188 [ERROR] 视频流错误: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2025-05-03 22:38:19,040 [INFO] 172.20.192.1 - - [03/May/2025 22:38:19] "GET / HTTP/1.1" 200 -
+2025-05-03 22:38:19,064 [INFO] 172.20.192.1 - - [03/May/2025 22:38:19] "GET /video_feed HTTP/1.1" 200 -
+2025-05-03 22:38:19,173 [INFO] 172.20.192.1 - - [03/May/2025 22:38:19] "GET /api/config HTTP/1.1" 200 -
+2025-05-03 22:38:45,474 [ERROR] 视频流错误: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2025-05-04 16:26:34,557 [INFO] find ip:None
+2025-05-04 16:26:34,564 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://172.20.195.39:8080
+2025-05-04 16:26:34,564 [INFO] [33mPress CTRL+C to quit[0m
+2025-05-04 16:26:39,238 [INFO] 127.0.0.1 - - [04/May/2025 16:26:39] "GET / HTTP/1.1" 200 -
+2025-05-04 16:26:39,277 [ERROR] 视频流错误: HTTPConnectionPool(host='127.0.0.1', port=8081): Max retries exceeded with url: /stream (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fc941b2bb80>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2025-05-04 16:26:39,277 [INFO] 127.0.0.1 - - [04/May/2025 16:26:39] "GET /video_feed HTTP/1.1" 200 -
+2025-05-04 16:26:40,576 [INFO] 127.0.0.1 - - [04/May/2025 16:26:40] "GET /api/config HTTP/1.1" 200 -
+2025-05-04 16:26:41,142 [INFO] 127.0.0.1 - - [04/May/2025 16:26:41] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-05-04 16:26:52,894 [INFO] 127.0.0.1 - - [04/May/2025 16:26:52] "GET / HTTP/1.1" 200 -
+2025-05-04 16:26:52,925 [INFO] 127.0.0.1 - - [04/May/2025 16:26:52] "GET /video_feed HTTP/1.1" 200 -
+2025-05-04 16:26:53,055 [INFO] 127.0.0.1 - - [04/May/2025 16:26:53] "GET /api/config HTTP/1.1" 200 -
+2025-05-04 16:27:21,105 [ERROR] 视频流错误: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2025-05-04 16:27:24,823 [INFO] 127.0.0.1 - - [04/May/2025 16:27:24] "GET / HTTP/1.1" 200 -
+2025-05-04 16:27:24,864 [INFO] 127.0.0.1 - - [04/May/2025 16:27:24] "GET /video_feed HTTP/1.1" 200 -
+2025-05-04 16:27:24,963 [INFO] 127.0.0.1 - - [04/May/2025 16:27:24] "GET /api/config HTTP/1.1" 200 -
+2025-05-04 16:27:54,681 [ERROR] 视频流错误: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2025-05-09 23:28:09,154 [INFO] find ip:None
+2025-05-09 23:28:09,156 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://172.20.195.39:8080
+2025-05-09 23:28:09,156 [INFO] [33mPress CTRL+C to quit[0m
+2025-05-09 23:28:12,227 [INFO] 172.20.192.1 - - [09/May/2025 23:28:12] "GET / HTTP/1.1" 200 -
+2025-05-09 23:28:12,253 [ERROR] 视频流错误: HTTPConnectionPool(host='127.0.0.1', port=8081): Max retries exceeded with url: /stream (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f04343bfb20>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2025-05-09 23:28:12,253 [INFO] 172.20.192.1 - - [09/May/2025 23:28:12] "GET /video_feed HTTP/1.1" 200 -
+2025-05-09 23:28:13,242 [INFO] 172.20.192.1 - - [09/May/2025 23:28:13] "GET /api/config HTTP/1.1" 200 -
+2025-05-09 23:28:13,296 [INFO] 172.20.192.1 - - [09/May/2025 23:28:13] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-05-09 23:29:06,861 [INFO] 172.20.192.1 - - [09/May/2025 23:29:06] "GET / HTTP/1.1" 200 -
+2025-05-09 23:29:06,914 [INFO] 172.20.192.1 - - [09/May/2025 23:29:06] "GET /api/config HTTP/1.1" 200 -
+2025-05-09 23:29:07,039 [INFO] 172.20.192.1 - - [09/May/2025 23:29:07] "GET /video_feed HTTP/1.1" 200 -
+2025-05-09 23:29:47,007 [ERROR] 视频流错误: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2025-05-09 23:34:55,238 [INFO] 172.20.192.1 - - [09/May/2025 23:34:55] "GET / HTTP/1.1" 200 -
+2025-05-09 23:34:55,272 [INFO] 172.20.192.1 - - [09/May/2025 23:34:55] "GET /video_feed HTTP/1.1" 200 -
+2025-05-09 23:34:55,436 [INFO] 172.20.192.1 - - [09/May/2025 23:34:55] "GET /api/config HTTP/1.1" 200 -
+2025-05-09 23:34:55,691 [INFO] 172.20.192.1 - - [09/May/2025 23:34:55] "GET / HTTP/1.1" 200 -
+2025-05-09 23:34:55,721 [INFO] 172.20.192.1 - - [09/May/2025 23:34:55] "GET /video_feed HTTP/1.1" 200 -
+2025-05-09 23:34:55,774 [INFO] 172.20.192.1 - - [09/May/2025 23:34:55] "GET /api/config HTTP/1.1" 200 -
+2025-05-09 23:35:33,593 [ERROR] 视频流错误: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2025-05-10 00:03:19,862 [INFO] 172.20.192.1 - - [10/May/2025 00:03:19] "GET / HTTP/1.1" 200 -
+2025-05-10 00:03:19,896 [INFO] 172.20.192.1 - - [10/May/2025 00:03:19] "GET /video_feed HTTP/1.1" 200 -
+2025-05-10 00:03:20,017 [INFO] 172.20.192.1 - - [10/May/2025 00:03:20] "GET /api/config HTTP/1.1" 200 -
+2025-05-10 00:03:26,199 [ERROR] 视频流错误: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2025-05-10 00:04:21,881 [INFO] 172.20.192.1 - - [10/May/2025 00:04:21] "GET / HTTP/1.1" 200 -
+2025-05-10 00:04:21,912 [INFO] 172.20.192.1 - - [10/May/2025 00:04:21] "GET /video_feed HTTP/1.1" 200 -
+2025-05-10 00:04:21,990 [INFO] 172.20.192.1 - - [10/May/2025 00:04:21] "GET /api/config HTTP/1.1" 200 -
+2025-05-10 00:04:34,630 [ERROR] 视频流错误: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2025-05-10 00:05:19,542 [INFO] 172.20.192.1 - - [10/May/2025 00:05:19] "GET / HTTP/1.1" 200 -
+2025-05-10 00:05:19,568 [INFO] 172.20.192.1 - - [10/May/2025 00:05:19] "GET /video_feed HTTP/1.1" 200 -
+2025-05-10 00:05:19,629 [INFO] 172.20.192.1 - - [10/May/2025 00:05:19] "GET /api/config HTTP/1.1" 200 -
+2025-05-10 00:06:01,532 [ERROR] 视频流错误: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2025-05-10 00:08:14,042 [INFO] 172.20.192.1 - - [10/May/2025 00:08:14] "GET / HTTP/1.1" 200 -
+2025-05-10 00:08:14,064 [INFO] 172.20.192.1 - - [10/May/2025 00:08:14] "GET /video_feed HTTP/1.1" 200 -
+2025-05-10 00:08:14,127 [INFO] 172.20.192.1 - - [10/May/2025 00:08:14] "GET /api/config HTTP/1.1" 200 -
+2025-05-10 00:08:52,140 [ERROR] 视频流错误: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2025-05-10 00:20:31,084 [INFO] 172.20.192.1 - - [10/May/2025 00:20:31] "GET / HTTP/1.1" 200 -
+2025-05-10 00:20:31,112 [INFO] 172.20.192.1 - - [10/May/2025 00:20:31] "GET /video_feed HTTP/1.1" 200 -
+2025-05-10 00:20:31,216 [INFO] 172.20.192.1 - - [10/May/2025 00:20:31] "GET /api/config HTTP/1.1" 200 -
+2025-05-10 00:21:17,072 [ERROR] 视频流错误: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2025-05-10 00:27:34,813 [INFO] 172.20.192.1 - - [10/May/2025 00:27:34] "GET / HTTP/1.1" 200 -
+2025-05-10 00:27:34,843 [INFO] 172.20.192.1 - - [10/May/2025 00:27:34] "GET /video_feed HTTP/1.1" 200 -
+2025-05-10 00:27:34,898 [INFO] 172.20.192.1 - - [10/May/2025 00:27:34] "GET /api/config HTTP/1.1" 200 -
+2025-05-10 00:28:11,070 [ERROR] 视频流错误: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2025-05-10 00:45:23,962 [INFO] 172.20.192.1 - - [10/May/2025 00:45:23] "GET / HTTP/1.1" 200 -
+2025-05-10 00:45:23,983 [ERROR] 视频流错误: HTTPConnectionPool(host='127.0.0.1', port=8081): Max retries exceeded with url: /stream (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f043443cfa0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2025-05-10 00:45:23,983 [INFO] 172.20.192.1 - - [10/May/2025 00:45:23] "GET /video_feed HTTP/1.1" 200 -
+2025-05-10 00:45:24,037 [INFO] 172.20.192.1 - - [10/May/2025 00:45:24] "GET /api/config HTTP/1.1" 200 -
+2025-05-10 00:45:29,148 [INFO] 172.20.192.1 - - [10/May/2025 00:45:29] "GET / HTTP/1.1" 200 -
+2025-05-10 00:45:29,187 [INFO] 172.20.192.1 - - [10/May/2025 00:45:29] "GET /video_feed HTTP/1.1" 200 -
+2025-05-10 00:45:29,203 [INFO] 172.20.192.1 - - [10/May/2025 00:45:29] "GET /api/config HTTP/1.1" 200 -
+2025-05-10 00:45:32,627 [ERROR] 视频流错误: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2025-05-12 21:39:01,048 [INFO] find ip:None
+2025-05-12 21:39:01,052 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://172.20.195.39:8080
+2025-05-12 21:39:01,052 [INFO] [33mPress CTRL+C to quit[0m
+2025-05-12 21:39:05,985 [INFO] 127.0.0.1 - - [12/May/2025 21:39:05] "GET / HTTP/1.1" 200 -
+2025-05-12 21:39:06,034 [INFO] 127.0.0.1 - - [12/May/2025 21:39:06] "GET /video_feed HTTP/1.1" 200 -
+2025-05-12 21:39:07,125 [INFO] 127.0.0.1 - - [12/May/2025 21:39:07] "GET /api/config HTTP/1.1" 200 -
+2025-05-12 21:39:07,339 [INFO] 127.0.0.1 - - [12/May/2025 21:39:07] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-05-12 21:39:55,122 [ERROR] 视频流错误: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2025-05-12 21:39:57,321 [INFO] 127.0.0.1 - - [12/May/2025 21:39:57] "GET / HTTP/1.1" 200 -
+2025-05-12 21:39:57,349 [INFO] 127.0.0.1 - - [12/May/2025 21:39:57] "GET /video_feed HTTP/1.1" 200 -
+2025-05-12 21:39:57,512 [INFO] 127.0.0.1 - - [12/May/2025 21:39:57] "GET /api/config HTTP/1.1" 200 -
+2025-05-12 21:40:37,610 [ERROR] 视频流错误: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2025-05-12 22:32:26,236 [INFO] 127.0.0.1 - - [12/May/2025 22:32:26] "GET / HTTP/1.1" 200 -
+2025-05-12 22:32:26,290 [INFO] 127.0.0.1 - - [12/May/2025 22:32:26] "GET /video_feed HTTP/1.1" 200 -
+2025-05-12 22:32:26,704 [INFO] 127.0.0.1 - - [12/May/2025 22:32:26] "GET /api/config HTTP/1.1" 200 -
+2025-05-12 22:32:58,988 [ERROR] 视频流错误: HTTPConnectionPool(host='127.0.0.1', port=8081): Read timed out.
+2025-05-12 22:33:36,082 [INFO] 127.0.0.1 - - [12/May/2025 22:33:36] "GET / HTTP/1.1" 200 -
+2025-05-12 22:33:36,220 [INFO] 127.0.0.1 - - [12/May/2025 22:33:36] "GET /api/config HTTP/1.1" 200 -
+2025-05-12 22:33:36,450 [INFO] 127.0.0.1 - - [12/May/2025 22:33:36] "GET /video_feed HTTP/1.1" 200 -
+2025-05-12 22:33:54,817 [ERROR] 视频流错误: HTTPConnectionPool(host='127.0.0.1', port=8081): Read timed out.
+2025-05-12 22:37:11,325 [INFO] 127.0.0.1 - - [12/May/2025 22:37:11] "GET / HTTP/1.1" 200 -
+2025-05-12 22:37:11,356 [INFO] 127.0.0.1 - - [12/May/2025 22:37:11] "GET /video_feed HTTP/1.1" 200 -
+2025-05-12 22:37:11,472 [INFO] 127.0.0.1 - - [12/May/2025 22:37:11] "GET /api/config HTTP/1.1" 200 -
+2025-05-12 22:37:48,773 [ERROR] 视频流错误: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2025-05-12 22:39:58,886 [INFO] 127.0.0.1 - - [12/May/2025 22:39:58] "GET / HTTP/1.1" 200 -
+2025-05-12 22:39:58,916 [INFO] 127.0.0.1 - - [12/May/2025 22:39:58] "GET /video_feed HTTP/1.1" 200 -
+2025-05-12 22:39:58,991 [INFO] 127.0.0.1 - - [12/May/2025 22:39:58] "GET /api/config HTTP/1.1" 200 -
+2025-05-12 22:40:36,914 [ERROR] 视频流错误: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2025-05-12 23:10:59,704 [INFO] 127.0.0.1 - - [12/May/2025 23:10:59] "GET / HTTP/1.1" 200 -
+2025-05-12 23:10:59,730 [INFO] 127.0.0.1 - - [12/May/2025 23:10:59] "GET /video_feed HTTP/1.1" 200 -
+2025-05-12 23:10:59,892 [INFO] 127.0.0.1 - - [12/May/2025 23:10:59] "GET /api/config HTTP/1.1" 200 -
+2025-05-12 23:11:18,233 [ERROR] 视频流错误: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2025-05-14 23:34:26,003 [INFO] find ip:None
+2025-05-14 23:34:26,005 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://172.20.195.39:8080
+2025-05-14 23:34:26,005 [INFO] [33mPress CTRL+C to quit[0m
+2025-05-14 23:34:27,754 [INFO] 172.20.192.1 - - [14/May/2025 23:34:27] "GET / HTTP/1.1" 200 -
+2025-05-14 23:34:27,775 [ERROR] 视频流错误: HTTPConnectionPool(host='127.0.0.1', port=8081): Max retries exceeded with url: /stream (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f7280353b80>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2025-05-14 23:34:27,775 [INFO] 172.20.192.1 - - [14/May/2025 23:34:27] "GET /video_feed HTTP/1.1" 200 -
+2025-05-14 23:34:30,630 [INFO] 172.20.192.1 - - [14/May/2025 23:34:30] "GET /api/config HTTP/1.1" 200 -
+2025-05-14 23:34:37,945 [INFO] 172.20.192.1 - - [14/May/2025 23:34:37] "GET / HTTP/1.1" 200 -
+2025-05-14 23:34:37,976 [INFO] 172.20.192.1 - - [14/May/2025 23:34:37] "GET /video_feed HTTP/1.1" 200 -
+2025-05-14 23:34:38,120 [INFO] 172.20.192.1 - - [14/May/2025 23:34:38] "GET /api/config HTTP/1.1" 200 -
+2025-05-14 23:35:16,119 [ERROR] 视频流错误: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2025-05-14 23:55:02,302 [INFO] 172.20.192.1 - - [14/May/2025 23:55:02] "GET / HTTP/1.1" 200 -
+2025-05-14 23:55:02,342 [INFO] 172.20.192.1 - - [14/May/2025 23:55:02] "GET /video_feed HTTP/1.1" 200 -
+2025-05-14 23:55:02,455 [INFO] 172.20.192.1 - - [14/May/2025 23:55:02] "GET /api/config HTTP/1.1" 200 -
+2025-05-14 23:55:14,099 [ERROR] 视频流错误: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2025-05-14 23:56:55,184 [INFO] 172.20.192.1 - - [14/May/2025 23:56:55] "GET / HTTP/1.1" 200 -
+2025-05-14 23:56:55,241 [INFO] 172.20.192.1 - - [14/May/2025 23:56:55] "GET /api/config HTTP/1.1" 200 -
+2025-05-14 23:56:55,507 [INFO] 172.20.192.1 - - [14/May/2025 23:56:55] "GET /video_feed HTTP/1.1" 200 -
+2025-05-14 23:57:35,661 [ERROR] 视频流错误: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2025-05-15 00:06:49,413 [INFO] 172.20.192.1 - - [15/May/2025 00:06:49] "GET / HTTP/1.1" 200 -
+2025-05-15 00:06:49,471 [INFO] 172.20.192.1 - - [15/May/2025 00:06:49] "GET /api/config HTTP/1.1" 200 -
+2025-05-15 00:06:49,635 [INFO] 172.20.192.1 - - [15/May/2025 00:06:49] "GET /video_feed HTTP/1.1" 200 -
+2025-05-15 00:07:00,941 [ERROR] 视频流错误: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2025-05-15 00:07:05,585 [INFO] 172.20.192.1 - - [15/May/2025 00:07:05] "GET / HTTP/1.1" 200 -
+2025-05-15 00:07:05,613 [INFO] 172.20.192.1 - - [15/May/2025 00:07:05] "GET /video_feed HTTP/1.1" 200 -
+2025-05-15 00:07:05,676 [INFO] 172.20.192.1 - - [15/May/2025 00:07:05] "GET /api/config HTTP/1.1" 200 -
+2025-05-15 00:07:41,693 [ERROR] 视频流错误: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2025-05-15 00:17:25,423 [INFO] 172.20.192.1 - - [15/May/2025 00:17:25] "GET / HTTP/1.1" 200 -
+2025-05-15 00:17:25,473 [INFO] 172.20.192.1 - - [15/May/2025 00:17:25] "GET /video_feed HTTP/1.1" 200 -
+2025-05-15 00:17:25,582 [INFO] 172.20.192.1 - - [15/May/2025 00:17:25] "GET /api/config HTTP/1.1" 200 -
+2025-05-15 00:17:25,637 [INFO] 172.20.192.1 - - [15/May/2025 00:17:25] "GET / HTTP/1.1" 200 -
+2025-05-15 00:17:27,563 [INFO] 172.20.192.1 - - [15/May/2025 00:17:27] "GET /video_feed HTTP/1.1" 200 -
+2025-05-15 00:17:27,642 [INFO] 172.20.192.1 - - [15/May/2025 00:17:27] "GET /api/config HTTP/1.1" 200 -
+2025-05-15 00:18:04,433 [ERROR] 视频流错误: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2025-05-15 00:55:20,503 [INFO] 172.20.192.1 - - [15/May/2025 00:55:20] "GET / HTTP/1.1" 200 -
+2025-05-15 00:55:20,583 [INFO] 172.20.192.1 - - [15/May/2025 00:55:20] "GET /api/config HTTP/1.1" 200 -
+2025-05-15 00:55:21,022 [INFO] 172.20.192.1 - - [15/May/2025 00:55:21] "GET /video_feed HTTP/1.1" 200 -
+2025-05-15 00:55:59,771 [ERROR] 视频流错误: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2025-05-15 01:08:03,034 [INFO] 172.20.192.1 - - [15/May/2025 01:08:03] "GET / HTTP/1.1" 200 -
+2025-05-15 01:08:03,073 [INFO] 172.20.192.1 - - [15/May/2025 01:08:03] "GET /video_feed HTTP/1.1" 200 -
+2025-05-15 01:08:03,201 [INFO] 172.20.192.1 - - [15/May/2025 01:08:03] "GET /api/config HTTP/1.1" 200 -
+2025-05-15 01:08:41,983 [ERROR] 视频流错误: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2025-05-15 01:13:13,876 [INFO] 172.20.192.1 - - [15/May/2025 01:13:13] "GET / HTTP/1.1" 200 -
+2025-05-15 01:13:13,937 [INFO] 172.20.192.1 - - [15/May/2025 01:13:13] "GET /api/config HTTP/1.1" 200 -
+2025-05-15 01:13:14,257 [INFO] 172.20.192.1 - - [15/May/2025 01:13:14] "GET /video_feed HTTP/1.1" 200 -
+2025-05-15 01:13:53,862 [ERROR] 视频流错误: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2025-05-15 22:26:51,423 [INFO] find ip:None
+2025-05-15 22:26:51,425 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://172.20.195.39:8080
+2025-05-15 22:26:51,425 [INFO] [33mPress CTRL+C to quit[0m
+2025-05-15 22:26:53,413 [INFO] 172.20.192.1 - - [15/May/2025 22:26:53] "GET / HTTP/1.1" 200 -
+2025-05-15 22:26:53,431 [ERROR] 视频流错误: HTTPConnectionPool(host='127.0.0.1', port=8081): Max retries exceeded with url: /stream (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f070be63b80>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2025-05-15 22:26:53,431 [INFO] 172.20.192.1 - - [15/May/2025 22:26:53] "GET /video_feed HTTP/1.1" 200 -
+2025-05-15 22:26:54,182 [INFO] 172.20.192.1 - - [15/May/2025 22:26:54] "GET /api/config HTTP/1.1" 200 -
+2025-05-15 22:26:54,265 [INFO] 172.20.192.1 - - [15/May/2025 22:26:54] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-05-15 22:27:49,132 [INFO] 172.20.192.1 - - [15/May/2025 22:27:49] "GET / HTTP/1.1" 200 -
+2025-05-15 22:27:49,155 [INFO] 172.20.192.1 - - [15/May/2025 22:27:49] "GET /video_feed HTTP/1.1" 200 -
+2025-05-15 22:27:49,218 [INFO] 172.20.192.1 - - [15/May/2025 22:27:49] "GET /api/config HTTP/1.1" 200 -
+2025-05-15 22:28:00,633 [ERROR] 视频流错误: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2025-05-19 23:04:44,858 [INFO] find ip:None
+2025-05-19 23:04:44,859 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://172.20.195.39:8080
+2025-05-19 23:04:44,859 [INFO] [33mPress CTRL+C to quit[0m
+2025-05-19 23:04:46,692 [INFO] 172.20.192.1 - - [19/May/2025 23:04:46] "GET / HTTP/1.1" 200 -
+2025-05-19 23:04:46,710 [ERROR] 视频流错误: HTTPConnectionPool(host='127.0.0.1', port=8081): Max retries exceeded with url: /stream (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fcdc1597b80>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2025-05-19 23:04:46,710 [INFO] 172.20.192.1 - - [19/May/2025 23:04:46] "GET /video_feed HTTP/1.1" 200 -
+2025-05-19 23:04:47,055 [INFO] 172.20.192.1 - - [19/May/2025 23:04:47] "GET /api/config HTTP/1.1" 200 -
+2025-05-19 23:04:47,115 [INFO] 172.20.192.1 - - [19/May/2025 23:04:47] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-05-19 23:04:54,078 [INFO] 172.20.192.1 - - [19/May/2025 23:04:54] "GET / HTTP/1.1" 200 -
+2025-05-19 23:04:54,100 [INFO] 172.20.192.1 - - [19/May/2025 23:04:54] "GET /video_feed HTTP/1.1" 200 -
+2025-05-19 23:04:54,144 [INFO] 172.20.192.1 - - [19/May/2025 23:04:54] "GET /api/config HTTP/1.1" 200 -
+2025-05-19 23:05:00,973 [ERROR] 视频流错误: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2025-05-19 23:05:47,283 [INFO] 172.20.192.1 - - [19/May/2025 23:05:47] "GET / HTTP/1.1" 200 -
+2025-05-19 23:05:47,312 [INFO] 172.20.192.1 - - [19/May/2025 23:05:47] "GET /video_feed HTTP/1.1" 200 -
+2025-05-19 23:05:47,370 [INFO] 172.20.192.1 - - [19/May/2025 23:05:47] "GET /api/config HTTP/1.1" 200 -
+2025-05-19 23:05:50,489 [ERROR] 视频流错误: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2025-05-19 23:06:02,574 [INFO] 172.20.192.1 - - [19/May/2025 23:06:02] "GET / HTTP/1.1" 200 -
+2025-05-19 23:06:02,590 [INFO] 172.20.192.1 - - [19/May/2025 23:06:02] "GET /video_feed HTTP/1.1" 200 -
+2025-05-19 23:06:02,652 [INFO] 172.20.192.1 - - [19/May/2025 23:06:02] "GET /api/config HTTP/1.1" 200 -
+2025-05-19 23:06:05,706 [ERROR] 视频流错误: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2025-05-19 23:16:51,188 [INFO] 172.20.192.1 - - [19/May/2025 23:16:51] "GET / HTTP/1.1" 200 -
+2025-05-19 23:16:51,217 [INFO] 172.20.192.1 - - [19/May/2025 23:16:51] "GET /video_feed HTTP/1.1" 200 -
+2025-05-19 23:16:51,329 [INFO] 172.20.192.1 - - [19/May/2025 23:16:51] "GET /api/config HTTP/1.1" 200 -
+2025-05-19 23:16:53,414 [ERROR] 视频流错误: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2025-05-24 12:36:32,220 [INFO] find ip:None
+2025-05-24 12:36:32,223 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://172.20.195.39:8080
+2025-05-24 12:36:32,223 [INFO] [33mPress CTRL+C to quit[0m
+2025-05-24 12:42:26,595 [INFO] 172.20.192.1 - - [24/May/2025 12:42:26] "GET / HTTP/1.1" 200 -
+2025-05-24 12:42:26,673 [INFO] 172.20.192.1 - - [24/May/2025 12:42:26] "GET /video_feed HTTP/1.1" 200 -
+2025-05-24 12:42:27,305 [INFO] 172.20.192.1 - - [24/May/2025 12:42:27] "GET /api/config HTTP/1.1" 200 -
+2025-05-24 12:42:27,410 [INFO] 172.20.192.1 - - [24/May/2025 12:42:27] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-05-24 12:42:39,561 [ERROR] 视频流错误: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2025-05-24 12:43:35,921 [INFO] 172.20.192.1 - - [24/May/2025 12:43:35] "GET / HTTP/1.1" 200 -
+2025-05-24 12:43:35,959 [INFO] 172.20.192.1 - - [24/May/2025 12:43:35] "GET /video_feed HTTP/1.1" 200 -
+2025-05-24 12:43:36,141 [INFO] 172.20.192.1 - - [24/May/2025 12:43:36] "GET /api/config HTTP/1.1" 200 -
+2025-05-24 12:44:06,626 [ERROR] 视频流错误: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2025-05-24 13:13:15,691 [INFO] 172.20.192.1 - - [24/May/2025 13:13:15] "GET / HTTP/1.1" 200 -
+2025-05-24 13:13:15,731 [INFO] 172.20.192.1 - - [24/May/2025 13:13:15] "GET /video_feed HTTP/1.1" 200 -
+2025-05-24 13:13:15,836 [INFO] 172.20.192.1 - - [24/May/2025 13:13:15] "GET /api/config HTTP/1.1" 200 -
+2025-05-24 13:14:00,760 [ERROR] 视频流错误: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2025-05-24 13:15:29,571 [INFO] 172.20.192.1 - - [24/May/2025 13:15:29] "GET / HTTP/1.1" 200 -
+2025-05-24 13:15:29,602 [INFO] 172.20.192.1 - - [24/May/2025 13:15:29] "GET /video_feed HTTP/1.1" 200 -
+2025-05-24 13:15:29,669 [INFO] 172.20.192.1 - - [24/May/2025 13:15:29] "GET /api/config HTTP/1.1" 200 -
+2025-05-24 13:15:29,787 [INFO] 172.20.192.1 - - [24/May/2025 13:15:29] "GET / HTTP/1.1" 200 -
+2025-05-24 13:15:29,819 [INFO] 172.20.192.1 - - [24/May/2025 13:15:29] "GET /video_feed HTTP/1.1" 200 -
+2025-05-24 13:15:29,880 [INFO] 172.20.192.1 - - [24/May/2025 13:15:29] "GET /api/config HTTP/1.1" 200 -
+2025-05-24 13:15:59,890 [ERROR] 视频流错误: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2025-05-25 21:09:13,619 [INFO] find ip:None
+2025-05-25 21:09:13,621 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://172.20.195.39:8080
+2025-05-25 21:09:13,621 [INFO] [33mPress CTRL+C to quit[0m
+2025-05-25 21:09:15,365 [INFO] 172.20.192.1 - - [25/May/2025 21:09:15] "GET / HTTP/1.1" 200 -
+2025-05-25 21:09:15,381 [ERROR] 视频流错误: HTTPConnectionPool(host='127.0.0.1', port=8081): Max retries exceeded with url: /stream (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f6fe10dbb80>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2025-05-25 21:09:15,381 [INFO] 172.20.192.1 - - [25/May/2025 21:09:15] "GET /video_feed HTTP/1.1" 200 -
+2025-05-25 21:09:16,989 [INFO] 172.20.192.1 - - [25/May/2025 21:09:16] "GET /api/config HTTP/1.1" 200 -
+2025-05-25 21:09:17,601 [INFO] 172.20.192.1 - - [25/May/2025 21:09:17] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-05-25 21:29:17,041 [INFO] 172.20.192.1 - - [25/May/2025 21:29:17] "GET / HTTP/1.1" 200 -
+2025-05-25 21:29:17,068 [INFO] 172.20.192.1 - - [25/May/2025 21:29:17] "GET /video_feed HTTP/1.1" 200 -
+2025-05-25 21:29:17,184 [INFO] 172.20.192.1 - - [25/May/2025 21:29:17] "GET /api/config HTTP/1.1" 200 -
+2025-05-25 21:29:34,050 [ERROR] 视频流错误: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2025-05-25 21:37:53,459 [INFO] 172.20.192.1 - - [25/May/2025 21:37:53] "GET / HTTP/1.1" 200 -
+2025-05-25 21:37:53,486 [INFO] 172.20.192.1 - - [25/May/2025 21:37:53] "GET /video_feed HTTP/1.1" 200 -
+2025-05-25 21:37:53,606 [INFO] 172.20.192.1 - - [25/May/2025 21:37:53] "GET /api/config HTTP/1.1" 200 -
+2025-05-25 21:38:10,968 [ERROR] 视频流错误: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2025-05-25 21:40:15,718 [INFO] 172.20.192.1 - - [25/May/2025 21:40:15] "GET / HTTP/1.1" 200 -
+2025-05-25 21:40:15,741 [INFO] 172.20.192.1 - - [25/May/2025 21:40:15] "GET /video_feed HTTP/1.1" 200 -
+2025-05-25 21:40:15,854 [INFO] 172.20.192.1 - - [25/May/2025 21:40:15] "GET /api/config HTTP/1.1" 200 -
+2025-05-25 21:40:31,275 [ERROR] 视频流错误: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2025-05-25 21:40:43,478 [INFO] 172.20.192.1 - - [25/May/2025 21:40:43] "GET / HTTP/1.1" 200 -
+2025-05-25 21:40:43,499 [INFO] 172.20.192.1 - - [25/May/2025 21:40:43] "GET /video_feed HTTP/1.1" 200 -
+2025-05-25 21:40:43,563 [INFO] 172.20.192.1 - - [25/May/2025 21:40:43] "GET /api/config HTTP/1.1" 200 -
+2025-05-25 21:40:50,210 [ERROR] 视频流错误: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2025-05-26 03:19:35,317 [ERROR] 视频流错误: HTTPConnectionPool(host='127.0.0.1', port=8081): Max retries exceeded with url: /stream (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f6fe11583d0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2025-05-26 03:19:35,321 [INFO] 172.20.192.1 - - [26/May/2025 03:19:35] "GET /video_feed HTTP/1.1" 200 -
+2025-05-26 03:19:43,354 [INFO] 172.20.192.1 - - [26/May/2025 03:19:43] "GET / HTTP/1.1" 200 -
+2025-05-26 03:19:43,378 [INFO] 172.20.192.1 - - [26/May/2025 03:19:43] "GET /video_feed HTTP/1.1" 200 -
+2025-05-26 03:19:43,435 [INFO] 172.20.192.1 - - [26/May/2025 03:19:43] "GET /api/config HTTP/1.1" 200 -
+2025-05-26 03:19:57,530 [ERROR] 视频流错误: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2025-05-26 03:20:06,174 [INFO] 172.20.192.1 - - [26/May/2025 03:20:06] "GET / HTTP/1.1" 200 -
+2025-05-26 03:20:06,202 [INFO] 172.20.192.1 - - [26/May/2025 03:20:06] "GET /video_feed HTTP/1.1" 200 -
+2025-05-26 03:20:06,263 [INFO] 172.20.192.1 - - [26/May/2025 03:20:06] "GET /api/config HTTP/1.1" 200 -
+2025-05-26 03:20:06,394 [INFO] 172.20.192.1 - - [26/May/2025 03:20:06] "GET / HTTP/1.1" 200 -
+2025-05-26 03:20:06,421 [INFO] 172.20.192.1 - - [26/May/2025 03:20:06] "GET /video_feed HTTP/1.1" 200 -
+2025-05-26 03:20:06,469 [INFO] 172.20.192.1 - - [26/May/2025 03:20:06] "GET /api/config HTTP/1.1" 200 -
+2025-05-26 03:21:10,692 [ERROR] 视频流错误: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2025-05-26 07:19:12,120 [INFO] 172.20.192.1 - - [26/May/2025 07:19:12] "GET / HTTP/1.1" 200 -
+2025-05-26 07:19:12,151 [ERROR] 视频流错误: HTTPConnectionPool(host='127.0.0.1', port=8081): Max retries exceeded with url: /stream (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f6fe1159420>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2025-05-26 07:19:12,151 [INFO] 172.20.192.1 - - [26/May/2025 07:19:12] "GET /video_feed HTTP/1.1" 200 -
+2025-05-26 07:19:12,192 [INFO] 172.20.192.1 - - [26/May/2025 07:19:12] "GET /api/config HTTP/1.1" 200 -
+2025-05-26 07:20:03,165 [INFO] 172.20.192.1 - - [26/May/2025 07:20:03] "GET / HTTP/1.1" 200 -
+2025-05-26 07:20:03,195 [INFO] 172.20.192.1 - - [26/May/2025 07:20:03] "GET /video_feed HTTP/1.1" 200 -
+2025-05-26 07:20:03,261 [INFO] 172.20.192.1 - - [26/May/2025 07:20:03] "GET /api/config HTTP/1.1" 200 -
+2025-05-26 07:21:07,736 [ERROR] 视频流错误: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2025-05-26 07:40:56,943 [INFO] 172.20.192.1 - - [26/May/2025 07:40:56] "GET / HTTP/1.1" 200 -
+2025-05-26 07:40:56,972 [INFO] 172.20.192.1 - - [26/May/2025 07:40:56] "GET /video_feed HTTP/1.1" 200 -
+2025-05-26 07:40:57,106 [INFO] 172.20.192.1 - - [26/May/2025 07:40:57] "GET /api/config HTTP/1.1" 200 -
+2025-05-26 07:41:12,043 [ERROR] 视频流错误: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2025-05-27 12:53:56,909 [INFO] find ip:None
+2025-05-27 12:54:18,971 [INFO] 127.0.0.1 - - [27/May/2025 12:54:18] "GET / HTTP/1.1" 200 -
+2025-05-27 12:54:19,052 [INFO] 127.0.0.1 - - [27/May/2025 12:54:19] "GET /video_feed HTTP/1.1" 200 -
+2025-05-27 12:54:19,418 [INFO] 127.0.0.1 - - [27/May/2025 12:54:19] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-05-27 12:55:18,540 [ERROR] 视频流错误: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2025-05-27 12:58:31,173 [INFO] 127.0.0.1 - - [27/May/2025 12:58:31] "GET / HTTP/1.1" 200 -
+2025-05-27 12:58:31,242 [INFO] 127.0.0.1 - - [27/May/2025 12:58:31] "GET /video_feed HTTP/1.1" 200 -
+2025-05-27 12:59:37,376 [ERROR] 视频流错误: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2025-05-27 13:08:43,399 [INFO] 127.0.0.1 - - [27/May/2025 13:08:43] "GET / HTTP/1.1" 200 -
+2025-05-27 13:08:43,446 [INFO] 127.0.0.1 - - [27/May/2025 13:08:43] "GET /video_feed HTTP/1.1" 200 -
+2025-05-27 13:08:47,349 [ERROR] 视频流错误: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2025-05-27 13:09:06,376 [INFO] 127.0.0.1 - - [27/May/2025 13:09:06] "GET / HTTP/1.1" 200 -
+2025-05-27 13:09:06,747 [INFO] 127.0.0.1 - - [27/May/2025 13:09:06] "GET /video_feed HTTP/1.1" 200 -
+2025-05-27 13:09:50,608 [ERROR] 视频流错误: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2025-05-27 13:13:00,157 [INFO] 127.0.0.1 - - [27/May/2025 13:13:00] "GET / HTTP/1.1" 200 -
+2025-05-27 13:13:00,255 [INFO] 127.0.0.1 - - [27/May/2025 13:13:00] "GET /video_feed HTTP/1.1" 200 -
+2025-05-27 13:13:19,297 [ERROR] 视频流错误: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2025-05-27 13:19:18,978 [INFO] find ip:None
+2025-05-27 13:19:18,995 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://172.20.195.39:8080
+2025-05-27 13:19:18,996 [INFO] [33mPress CTRL+C to quit[0m
+2025-05-27 18:12:22,058 [INFO] 172.20.192.1 - - [27/May/2025 18:12:22] "GET / HTTP/1.1" 200 -
+2025-05-27 18:12:22,078 [ERROR] 视频流错误: HTTPConnectionPool(host='127.0.0.1', port=8081): Max retries exceeded with url: /stream (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fb2c6ddfb80>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2025-05-27 18:12:22,078 [INFO] 172.20.192.1 - - [27/May/2025 18:12:22] "GET /video_feed HTTP/1.1" 200 -
+2025-05-27 18:12:22,241 [INFO] 172.20.192.1 - - [27/May/2025 18:12:22] "GET /api/config HTTP/1.1" 200 -
+2025-05-27 18:12:25,779 [INFO] 127.0.0.1 - - [27/May/2025 18:12:25] "GET / HTTP/1.1" 200 -
+2025-05-27 18:12:25,805 [ERROR] 视频流错误: HTTPConnectionPool(host='127.0.0.1', port=8081): Max retries exceeded with url: /stream (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fb2c6ddebc0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2025-05-27 18:12:25,805 [INFO] 127.0.0.1 - - [27/May/2025 18:12:25] "GET /video_feed HTTP/1.1" 200 -
+2025-05-27 18:12:26,982 [INFO] 127.0.0.1 - - [27/May/2025 18:12:26] "GET /api/config HTTP/1.1" 200 -
+2025-05-27 18:19:36,215 [INFO] 127.0.0.1 - - [27/May/2025 18:19:36] "GET / HTTP/1.1" 200 -
+2025-05-27 18:19:36,252 [INFO] 127.0.0.1 - - [27/May/2025 18:19:36] "GET /video_feed HTTP/1.1" 200 -
+2025-05-27 18:19:36,314 [INFO] 127.0.0.1 - - [27/May/2025 18:19:36] "GET /api/config HTTP/1.1" 200 -
+2025-05-27 18:20:11,391 [ERROR] 视频流错误: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2025-05-27 18:21:53,758 [INFO] 127.0.0.1 - - [27/May/2025 18:21:53] "GET / HTTP/1.1" 200 -
+2025-05-27 18:21:53,795 [INFO] 127.0.0.1 - - [27/May/2025 18:21:53] "GET /video_feed HTTP/1.1" 200 -
+2025-05-27 18:21:53,954 [INFO] 127.0.0.1 - - [27/May/2025 18:21:53] "GET /api/config HTTP/1.1" 200 -
+2025-05-27 18:25:12,721 [ERROR] 视频流错误: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2025-05-28 00:06:47,407 [INFO] find ip:None
+2025-05-28 00:06:47,409 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://172.20.195.39:8080
+2025-05-28 00:06:47,409 [INFO] [33mPress CTRL+C to quit[0m
+2025-05-28 00:06:48,931 [INFO] 172.20.192.1 - - [28/May/2025 00:06:48] "GET / HTTP/1.1" 200 -
+2025-05-28 00:06:48,946 [ERROR] 视频流错误: HTTPConnectionPool(host='127.0.0.1', port=8081): Max retries exceeded with url: /stream (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fb82b82fb80>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2025-05-28 00:06:48,946 [INFO] 172.20.192.1 - - [28/May/2025 00:06:48] "GET /video_feed HTTP/1.1" 200 -
+2025-05-28 00:06:49,101 [INFO] 172.20.192.1 - - [28/May/2025 00:06:49] "GET /api/config HTTP/1.1" 200 -
+2025-05-28 00:06:49,127 [INFO] 172.20.192.1 - - [28/May/2025 00:06:49] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-05-28 00:06:55,084 [INFO] 172.20.192.1 - - [28/May/2025 00:06:55] "GET / HTTP/1.1" 200 -
+2025-05-28 00:06:55,104 [INFO] 172.20.192.1 - - [28/May/2025 00:06:55] "GET /video_feed HTTP/1.1" 200 -
+2025-05-28 00:06:55,143 [INFO] 172.20.192.1 - - [28/May/2025 00:06:55] "GET /api/config HTTP/1.1" 200 -
+2025-05-28 00:07:14,189 [ERROR] 视频流错误: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2025-05-28 00:07:17,397 [INFO] 172.20.192.1 - - [28/May/2025 00:07:17] "GET / HTTP/1.1" 200 -
+2025-05-28 00:07:17,418 [INFO] 172.20.192.1 - - [28/May/2025 00:07:17] "GET /video_feed HTTP/1.1" 200 -
+2025-05-28 00:07:17,526 [INFO] 172.20.192.1 - - [28/May/2025 00:07:17] "GET /api/config HTTP/1.1" 200 -
+2025-05-28 00:07:40,713 [ERROR] 视频流错误: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2025-05-28 01:10:12,589 [INFO] 172.20.192.1 - - [28/May/2025 01:10:12] "GET / HTTP/1.1" 200 -
+2025-05-28 01:10:12,614 [INFO] 172.20.192.1 - - [28/May/2025 01:10:12] "GET /video_feed HTTP/1.1" 200 -
+2025-05-28 01:10:12,685 [INFO] 172.20.192.1 - - [28/May/2025 01:10:12] "GET /api/config HTTP/1.1" 200 -
+2025-05-28 01:10:16,332 [ERROR] 视频流错误: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2025-05-28 01:11:11,248 [INFO] 172.20.192.1 - - [28/May/2025 01:11:11] "GET / HTTP/1.1" 200 -
+2025-05-28 01:11:11,272 [INFO] 172.20.192.1 - - [28/May/2025 01:11:11] "GET /video_feed HTTP/1.1" 200 -
+2025-05-28 01:11:11,341 [INFO] 172.20.192.1 - - [28/May/2025 01:11:11] "GET /api/config HTTP/1.1" 200 -
+2025-05-28 01:11:32,083 [ERROR] 视频流错误: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
